@@ -1,0 +1,155 @@
+============================================================
+DISEASE: LEAF VARIEGATION on Cotton (Kapas)
+Region: Punjab & Sindh, Pakistan
+============================================================
+
+--- DISEASE IDENTIFICATION ---
+Type          : Physiological/Nutritional Disorder (Abiotic) — NOT infectious
+Local Name    : Patta Ranga Badalna, Rang Birangi Pattiyan
+Affected Stage: All growth stages; most visible during vegetative and boll development
+
+Symptoms:
+- Irregular yellow, cream, or white patches/streaks on green leaves (mosaic-like)
+- Leaf blade shows two or more distinct colors (hence "variegation")
+- Veins may remain green while interveinal areas turn yellow or pale
+- In severe cases, entire leaves may bleach/whiten
+- Can be confused with virus symptoms but is typically non-spreading (abiotic cause)
+- Stunted growth when nutrient deficiency is severe
+- Commonly appears on young/new growth first
+
+Primary Causes of Leaf Variegation in Pakistan Cotton:
+1. Magnesium (Mg) Deficiency — most common in sandy soils of Sindh
+2. Iron (Fe) Deficiency — Lime-induced chlorosis in calcareous soils (common in Punjab)
+3. Manganese (Mn) Deficiency
+4. Zinc (Zn) Deficiency — widespread in Pakistan cotton soils
+5. Sulfur (S) Deficiency
+6. Virus infection (Cotton Leaf Curl Virus) — if accompanied by leaf curling/thickening
+7. Excessive soil alkalinity (pH > 8.0) blocking micronutrient uptake
+
+Note: Pakistan soils (particularly Punjab and Sindh) are highly alkaline (pH 7.5-8.5),
+which severely reduces availability of Fe, Mn, Zn causing leaf variegation.
+
+============================================================
+RECOMMENDED SPRAYS/TREATMENTS — PAKISTAN LOCAL MARKET
+============================================================
+
+FOR MAGNESIUM DEFICIENCY VARIEGATION:
+--------------------------------------
+1. Magnesium Sulphate (Epsom Salt) Foliar Spray
+   Formulation : Magnesium Sulphate (MgSO4) — available in all agri shops
+   Local Name  : Khat Magnesium / Epsom Salt
+   Dose        : 20-25 g per 10 liters of water (2-2.5 kg per acre in 100L water)
+   Application : Spray 2-3 times at 10-day intervals
+   Availability: Widely available across Punjab & Sindh; brands include Engro Zarkhez Mg, local chemical shops
+   Notes       : Also apply 25 kg/hectare soil application before planting in Mg-deficient areas
+
+FOR IRON/ZINC/MANGANESE DEFICIENCY VARIEGATION:
+------------------------------------------------
+2. Chelated Micronutrient Foliar Spray (Multi-Micronutrient)
+   Products Available in Pakistan:
+   - Zarkhez Micronutrient Fertilizer (Engro Fertilizers Pakistan) — widely trusted in Punjab/Sindh
+   - Multi-K (Haifa / local distributors)
+   - Nutribuild / Nutrifeed (various local companies)
+   - Librel / Sequestrene (chelated iron — for iron-specific variegation)
+   Dose        : Follow label; typically 200-300 g per acre foliar spray
+   Application : 2-3 sprays at 10-day intervals during active growth
+
+3. Ferrous Sulphate (FeSO4) for Iron Deficiency
+   Dose        : 2-3 g per liter of water (200-300 g per acre in 100L water)
+   Important   : Add Citric Acid (1 g per liter) to prevent precipitation in alkaline water
+   Notes       : Avoid mixing with phosphate fertilizers (precipitates); apply separately
+
+4. Zinc Sulphate (ZnSO4) for Zinc Deficiency Variegation
+   Dose        : 2.5 g per liter of water (250 g per acre in 100L water)
+   Local Brands: Engro Zn Sulphate, Fauji Zinc Sulphate, Ittehad Chemicals
+   Application : Soil application @ 10-15 kg per acre if deficiency severe
+   Notes       : Zinc deficiency is extremely common in Pakistani soils — standard recommendation for cotton in Punjab
+
+FOR SULFUR DEFICIENCY VARIEGATION:
+-----------------------------------
+5. Potassium Sulphate (SOP) or Ammonium Sulphate foliar
+   Dose        : Ammonium Sulphate 1% solution spray (10 g per liter)
+   Notes       : Particularly important in irrigated Sindh soils
+
+COMBINED APPROACH (Best Practice for Mixed Deficiency):
+-------------------------------------------------------
+6. Urea + MgSO4 Combination Spray
+   Dose        : Urea 1% (10 g/L) + Magnesium Sulphate 0.5% (5 g/L)
+   Application : 2-3 foliar sprays at 10-15 day intervals
+   Notes       : This combination is officially recommended by Punjab Agriculture Extension for cotton leaf variegation
+
+7. Humic Acid + Micronutrient Package
+   Products    : Humate Gold (Sayban International), Agri-Plus (local brands), Humic Pro
+   Dose        : 250-500 ml per acre
+   Notes       : Humic acid improves nutrient availability in alkaline soils; spray with micronutrients
+
+============================================================
+WEATHER-BASED SPRAY TIMING GUIDE (FOR RAG AGENT)
+============================================================
+
+CONDITION 1 — HOT SUMMER (Temp: 38-45°C, Humidity: < 40%)
+  → Micronutrient uptake severely impaired; variegation worsens
+  → SPRAY: Chelated Fe + Zn foliar spray (chelated forms more stable in heat)
+  → Spray time: ONLY early morning (5:00-6:30 AM) or evening (7-8 PM)
+  → DO NOT spray foliar nutrients in midday heat — leaf burn risk (scorching)
+  → Increase irrigation frequency; drought stress worsens nutrient deficiency
+  → Spray every 10 days until recovery; 3 sprays minimum
+
+CONDITION 2 — WARM MODERATE (Temp: 28-35°C, Humidity: 50-65%)
+  → Best conditions for foliar nutrient uptake
+  → SPRAY: Urea 1% + MgSO4 0.5% combination
+  → Morning spray (6-8 AM) — stomata open, absorption best
+  → Apply 3 sprays at 10-day intervals for full recovery
+  → Add sticker to improve foliar adhesion
+
+CONDITION 3 — AFTER RAIN / HIGH HUMIDITY (Humidity > 70%)
+  → Good spray window — stomata wide open, absorption excellent
+  → Spray within 4-6 hours after rain (when leaves are dry but humidity still high)
+  → MgSO4 + Zinc foliar spray most effective in these conditions
+  → Avoid if rain expected within 3 hours (spray washes off)
+
+CONDITION 4 — WATERLOGGED / FLOODED SOIL
+  → Variegation may worsen due to root oxygen stress blocking nutrient uptake
+  → Drain field FIRST — do not spray nutrients on waterlogged plants (ineffective)
+  → After drainage, apply foliar spray within 48 hours
+  → Also add potassium (SOP 1% solution) to restore root function
+
+CONDITION 5 — CLOUDY / OVERCAST (No direct sunlight)
+  → Excellent for foliar spray application any time of day
+  → UV exposure is low; nutrients remain active longer on leaf surface
+  → Best window for iron chelate sprays (Fe chelates break down in UV)
+
+CONDITION 6 — HIGH ALKALINE SOIL CONDITIONS (pH > 8.0 — common in Punjab canal areas)
+  → Use EDDHA-chelated iron (more stable in high pH) instead of FeSO4
+  → Apply soil acidifiers (Sulfur @ 100-200 kg/ha) to lower pH over time
+  → Foliar sprays are critical because soil application is ineffective above pH 7.5
+
+============================================================
+SOIL TEST RECOMMENDATION
+============================================================
+- Always do soil testing before assuming deficiency type
+- Punjab Agriculture Department offers free soil testing at district labs
+- Sindh Agriculture Department (SADO offices) also provide soil testing
+- Key soil parameters: pH, EC, Organic Matter, NPK, Zn, Fe, Mn, B
+- Target soil pH for cotton: 6.5-7.5 (adjust with gypsum or sulfur if needed)
+
+============================================================
+INTEGRATED MANAGEMENT
+============================================================
+- Apply gypsum (CaSO4) @ 500-1000 kg/acre to improve Ca+Mg availability and correct Mg deficiency
+- Use organic matter / FYM (Farm Yard Manure) @ 5-10 t/ha to improve nutrient release
+- Avoid excessive P fertilizer — competes with Zn and Fe uptake
+- Use balanced NPK fertilizer program recommended by Punjab/Sindh Agriculture Dept
+
+============================================================
+LOCAL SUPPLIERS (Punjab & Sindh)
+============================================================
+- Engro Fertilizers (Zarkhez brand micronutrient products) — nationwide
+- Fauji Fertilizer Company (FFC) — zinc sulphate, multi-nutrient products
+- Sona Group fertilizers
+- Local chemical/fertilizer shops in: Lahore, Faisalabad, Multan, Hyderabad, Mirpur Khas
+- Online: Kissan Ghar, IR Farm, Fazal Agri Mall
+
+============================================================
+END OF FILE: LEAF VARIEGATION
+============================================================

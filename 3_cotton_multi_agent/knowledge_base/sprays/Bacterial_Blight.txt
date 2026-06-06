@@ -1,0 +1,233 @@
+============================================================
+DISEASE: BACTERIAL BLIGHT on Cotton (Kapas)
+Region: Punjab & Sindh, Pakistan
+============================================================
+
+--- DISEASE IDENTIFICATION ---
+Type          : Bacterial Disease (Infectious)
+Pathogen      : Xanthomonas citri pv. malvacearum (formerly Xanthomonas campestris pv. malvacearum)
+Local Name    : Bakteri Bimari, Kala Arm (Black Arm), Tikon Dhabbe, Angular Leaf Spot
+Also Called   : Angular Leaf Spot, Seedling Blight, Black Arm (when stem infected)
+Affected Stage: All stages — seedling to boll maturation
+
+Symptoms (Stage-wise):
+SEEDLING STAGE:
+- Water-soaked lesions on cotyledons
+- Dark brown/black lesions on stem near soil surface (damping off)
+
+LEAF STAGE (Most Visible in Pakistan Fields):
+- Small, angular water-soaked spots on leaves (limited by veins — triangular/angular shape)
+- Spots turn dark brown/black with red or brown border
+- Spots are angular/geometric (not round) — THIS IS THE KEY DISTINGUISHING SIGN
+- Lesions dry out, turn papery, may fall off leaving "shot holes" in leaf
+- Yellowing of tissue around lesions
+- Under high humidity: bacterial ooze visible on lesion surface
+
+STEM/PETIOLE STAGE (Black Arm):
+- Dark brown/black lesions on stem, petioles, branches
+- Branches die back from tips (arm dies = "black arm")
+- Girdling of stem causes wilting
+
+BOLL STAGE:
+- Brown/black water-soaked lesions on boll surface
+- Internal boll rotting; fiber quality ruined
+- Heavy yield losses in severe cases
+
+--- CAUSES & FAVORABLE CONDITIONS ---
+- Warm temperatures: 28-35°C combined with HIGH HUMIDITY (> 70%) and rain = ideal conditions
+- Disease thrives in extremely warm and humid conditions
+- Monsoon season (July–September) = peak outbreak period in both Punjab and Sindh
+- Primary spread: Through contaminated seed (major source in Pakistan), rain splash, wind
+- Infected crop debris in soil = secondary inoculum source
+- Injuries from insects/machinery help bacterial entry
+- Heavy rainfall, dew, flooding increase spread dramatically
+
+KEY PAKISTAN CONTEXT:
+- Bacterial blight is endemic in cotton areas of Punjab (Multan, Bahawalpur division)
+  and Sindh (Hyderabad, Mirpur Khas divisions)
+- Pakistan's cotton ranks as 5th largest producer globally — losses from blight significant
+- Acid delinting of seed is recommended practice to reduce seed-borne infection
+
+============================================================
+RECOMMENDED SPRAYS/TREATMENTS — PAKISTAN LOCAL MARKET
+============================================================
+
+GROUP 1: COPPER-BASED BACTERICIDES (Primary Treatment)
+------------------------------------------------------
+1. Copper Oxychloride 50 WP (Cupravit / Blue Copper / Various local brands) ★ MOST USED
+   Active Ingredient : Copper Oxychloride 50%
+   Dose              : 2-2.5 g per liter of water = 200-250 g per 100 liters per acre
+   Per Acre          : 200-250 g in 100-120 liters water
+   Application       : 3 sprays at 15-20 day intervals; start at first sign of disease
+   Brands Available  :
+   - Blue Copper 50 WP (Syngenta-standard quality; widely available)
+   - COOPIX 50 WP (Tara Group — available at IR Farm)
+   - Copper Oxychloride 50 WP (Ravi Agrichem, Ihsan Sons, ACI — budget brands)
+   - Cupravit Blue (Bayer reference standard)
+   - Zarai Dawai (online brand — multiple copper products available)
+   Availability      : All major agri shops Punjab & Sindh; one of the most stocked bactericides
+   Notes             : Contact action — forms protective copper barrier on leaf surface;
+                       prevents bacterial penetration; must be applied BEFORE infection for best results;
+                       does not cure existing lesions but stops spread
+
+2. Copper Hydroxide (Kocide — DuPont/Corteva or local equivalents)
+   Active Ingredient : Copper Hydroxide 77 WP
+   Dose              : 150-200 g per 100 liters per acre (2 g per liter)
+   Notes             : More soluble than Copper Oxychloride; slightly better systemic distribution;
+                       available in Karachi, Lahore specialty agri shops
+
+GROUP 2: STREPTOMYCIN/ANTIBIOTIC COMBINATIONS (Curative)
+---------------------------------------------------------
+3. Agrimycin-100 (Streptomycin Sulphate 15% + Tetracycline 1.5%)
+   Active Ingredient : Streptomycin Sulphate + Tetracycline
+   Dose              : 100-200 ppm solution (0.5-1 g per 5 liters water)
+   Per Acre          : 10-15 g in 100 liters water
+   Notes             : Antibiotic bactericide; systemic action; curative (works after infection);
+                       Research confirms 3 sprays of 100g Agrimycin + 2kg Copper Oxychloride
+                       per hectare gave best disease control (Chauhan et al.);
+                       Use in combination with copper for best results
+
+4. Streptocycline (Streptomycin Sulphate 90% + Tetracycline 10%)
+   Local Brand Names : Streptocycline (generic); KMYCIN (Katyayani); various brands
+   Dose              : 0.5 g per liter of water
+   Notes             : Absorbed by plant; moves systemically; curative action against bacterial diseases;
+                       readily soluble; does not wash off easily; effective on cotton, paddy, wheat bacterial diseases
+
+COMBINATION SPRAY (MOST EFFECTIVE — Pakistan Research-Backed):
+-------------------------------------------------------------
+5. ★★ BEST COMBINATION: Copper Oxychloride + Streptomycin
+   Mix               : Copper Oxychloride 0.2% (2 g/L) + Streptomycin Sulphate 50 ppm (0.05 g/L)
+   Application       : 3 sprays at 40-50, 70-80, and 85-95 days after planting
+   Scientific Basis  : Chauhan et al. (1983) — confirmed maximum disease reduction and highest yield
+                       with this combination applied at three growth stages
+   Notes             : Copper protects (preventive) + Streptomycin cures (curative);
+                       most effective strategy for Pakistan conditions
+
+GROUP 3: ZINC SULPHATE + UREA (Supplementary/Budget Option)
+-----------------------------------------------------------
+6. Zinc Sulphate 0.5% + Urea 1% Spray
+   Notes             : Boosts plant immunity; zinc has some bacteriostatic properties;
+                       urea improves plant vigor to fight off infection
+   Dose              : ZnSO4 5 g/L + Urea 10 g/L
+   Notes             : Budget-friendly supplement to copper sprays; widely available
+
+SEED TREATMENT (Prevention at Source):
+--------------------------------------
+7. Acid Delinting (Standard Practice — Not a Spray)
+   Method            : Treat cotton seeds with sulfuric acid before planting
+   Notes             : Most effective single step to reduce seed-borne bacterial blight;
+                       Reduces infection source by 80-90%;
+                       Recommended by Punjab & Sindh Agriculture Departments;
+                       Acid-delinted seed should be standard practice in endemic areas
+
+8. Streptomycin Seed Soaking (1.5 g per kg seed for 30 minutes before planting)
+   Notes             : Eliminates seed-surface bacteria; confirmed by Beura (1998) to reduce blight incidence
+
+============================================================
+WEATHER-BASED SPRAY TIMING GUIDE (FOR RAG AGENT)
+============================================================
+
+CONDITION 1 — WARM & HUMID (Temp: 28-35°C, Humidity: > 65%, After Rain)
+  → ★★★ PEAK BACTERIAL BLIGHT RISK — ideal conditions for Xanthomonas
+  → URGENT: Spray Copper Oxychloride PREVENTIVELY before lesions appear
+  → Spray WITHIN 24-48 hours of rain if disease was present in previous season
+  → Add Streptomycin to copper spray mix for curative action
+  → Spray timing: Early morning (6-8 AM) after dew dries but before midday
+  → Repeat every 10-14 days during sustained humid periods
+  → DO NOT irrigate by flooding — use furrow/drip to reduce leaf wetness
+
+CONDITION 2 — MONSOON SEASON (July–September) — HIGH ALERT
+  → Rain splash is the main spread mechanism — each rain = new infection wave
+  → Spray Copper Oxychloride 1-2 days BEFORE predicted rain (protective coating)
+  → After rain: inspect fields within 48 hours for new angular lesions
+  → Use SC/WP formulations (better rain resistance than EC)
+  → Spray frequency: Every 10-14 days during monsoon; reduce to 20 days in dry spells
+  → Add sticker (0.2%) to improve rain fastness of copper spray
+
+CONDITION 3 — HOT & DRY (Temp: > 38°C, Humidity: < 40%)
+  → Low risk for bacterial spread — bacteria need moisture to spread
+  → BUT: existing lesions remain; plant is more stressed
+  → Single preventive copper spray recommended if disease present
+  → Focus on maintaining plant health: irrigation, potassium spray
+  → Next rainy period = immediate risk; have copper spray ready
+
+CONDITION 4 — SEEDLING STAGE (30-45 days) — EARLY PREVENTION
+  → Most critical protection period; seedlings are highly susceptible
+  → First copper spray at 30-35 days after germination (before monsoon arrives)
+  → Combine with seed treatment for maximum protection
+  → Second spray 15 days later
+
+CONDITION 5 — PRE-MONSOON (June — When Humidity Starts Rising)
+  → Begin preventive copper sprays BEFORE first monsoon rain
+  → This is the single most important timing for preventing blight in Pakistan
+  → 2 sprays in June (1st and 15th) = major reduction in July/August outbreak
+  → Punjab farmers who spray copper in June consistently have lower blight severity
+
+CONDITION 6 — AFTER HAILSTORM / MECHANICAL DAMAGE
+  → Physical damage to leaves creates entry points for bacteria
+  → IMMEDIATE spray with Copper Oxychloride within 24 hours of hail damage
+  → Add Streptomycin if blight was already present in the season
+
+CONDITION 7 — HIGH NIGHT HUMIDITY (Dew Formation — Temp Drop at Night)
+  → Dew on leaves at night = 8+ hours of moisture on leaves = bacterial infection risk
+  → Spray copper in late afternoon (3-5 PM) so it's dry before dew forms
+  → DO NOT spray in early morning if heavy dew present (dilutes the chemical)
+
+============================================================
+DISEASE SEVERITY MANAGEMENT GUIDE
+============================================================
+MILD (< 10% leaves affected, < 5% yield impact):
+- Copper Oxychloride spray alone (2 applications)
+- Remove and destroy heavily infected leaves
+
+MODERATE (10-30% leaves affected):
+- Copper Oxychloride + Streptomycin combination spray
+- 3 applications at 14-day intervals
+- Remove black arm branches
+
+SEVERE (> 30% leaves, stem blight, boll infection):
+- Emergency: Copper + Streptomycin spray immediately
+- Consider copper soil drench around plant base
+- Remove severely infected plants; do not leave as source
+- Economic assessment may require early harvest of remaining healthy bolls
+
+============================================================
+INTEGRATED DISEASE MANAGEMENT (IDM)
+============================================================
+- Use RESISTANT VARIETIES: Punjab recommends FH-142, MNH-886 for reduced blight susceptibility
+  Sindh: CRIS varieties from Tandojam — consult SARI for current recommendations
+- Crop Rotation: Avoid cotton after cotton in blight-endemic fields
+- Field Sanitation: Deep plow infected crop debris after harvest; burns reduce inoculum
+- Drainage: Improve field drainage; waterlogged fields have higher blight severity
+- Windbreaks: Reduce wind-spread of bacteria with border crops (sorghum, maize)
+- Avoid Overhead Irrigation: Use furrow irrigation; overhead sprinklers spread bacteria
+
+============================================================
+LOCAL SUPPLIERS (Punjab & Sindh)
+============================================================
+COPPER PRODUCTS:
+- Bayer Pakistan (Blue Copper standard) — through nationwide dealers
+- Syngenta Pakistan (Blue Copper / Cuprofix)
+- Ravi Agrichem (generic Copper Oxychloride) — Punjab
+- ACI Pakistan (affordable generic copper) — Punjab & Sindh
+- Ihsan Sons (Multan) — copper products, local brand
+- IR Farm (online): COOPIX 50WP (Tara Group)
+- Zarai Dawai (online): Copper Oxychloride 50 WP
+
+STREPTOMYCIN:
+- Agrimycin-100: Available at specialty agri shops in Lahore, Faisalabad, Multan, Karachi
+- Streptocycline: Available through plant pathology departments and specialty shops
+- Online: Kissan Ghar, Fazal Agri Mall, IR Farm
+
+KEY MARKETS:
+- Multan Agri Market, Bahawalpur, Sahiwal (Punjab)
+- Hyderabad Agri Market, Mirpur Khas, Nawabshah, Badin (Sindh)
+
+GOVERNMENT SUPPORT:
+- CCRI (Central Cotton Research Institute) Multan — 061-111-678-678 — disease diagnosis
+- Punjab Agriculture Department Disease Lab — district offices
+- Sindh Agriculture Research Institute (SARI) Tandojam — 022-2651-340
+
+============================================================
+END OF FILE: BACTERIAL BLIGHT
+============================================================

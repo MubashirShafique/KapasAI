@@ -1,0 +1,184 @@
+============================================================
+DISEASE: LEAF REDDENING (Lal Patti / Lalai) on Cotton (Kapas)
+Region: Punjab & Sindh, Pakistan
+============================================================
+
+--- DISEASE IDENTIFICATION ---
+Type          : Physiological Disorder (Abiotic) — primarily nutritional/environmental
+Local Name    : Lal Patti, Lalai, Patti Ka Lal Hona
+Affected Stage: Flowering, Boll Development Stage (July–September most common)
+
+Symptoms:
+- Leaf margins turn red/purple first, then spreading to the rest of the blade
+- Leaves develop reddish-purple discoloration due to anthocyanin pigment accumulation
+- Chlorophyll (green pigment) decreases while red pigment (anthocyanin) increases
+- Severely affected leaves dry and shed early (defoliation)
+- Boll shedding and reduced boll weight follows severe reddening
+- Plants may look stunted with fewer open bolls
+- Reddening from margins inward = potassium/phosphorus deficiency
+- Reddening between leaf veins = magnesium deficiency (veins stay green)
+- Whole-leaf reddening + curling = could indicate viral cause; check for whitefly
+
+Primary Causes in Pakistan Cotton:
+1. POTASSIUM (K) Deficiency — most common cause; cotton is a high K-demand crop
+2. NITROGEN (N) Deficiency — especially during boll load period
+3. PHOSPHORUS (P) Deficiency — early season reddening
+4. MAGNESIUM (Mg) Deficiency — interveinal reddening (veins remain green)
+5. Water Stress (Drought) — reduces nutrient uptake, triggers reddening
+6. Waterlogging — causes root death, blocks nutrient uptake
+7. Sucking Pest Attack (Jassids) — toxin injection causes reddening
+8. Environmental stress — cold nights, high heat, excessive sunlight
+9. High Boll Load — simultaneous boll development depletes N, triggering reddening
+
+Key Fact: Pakistan cotton soils are potassium deficient in many areas of Sindh and South Punjab,
+making K deficiency-driven reddening extremely common.
+
+============================================================
+RECOMMENDED SPRAYS/TREATMENTS — PAKISTAN LOCAL MARKET
+============================================================
+
+PRIMARY TREATMENT — POTASSIUM DEFICIENCY REDDENING:
+----------------------------------------------------
+1. Potassium Sulphate (SOP) Foliar Spray — FIRST CHOICE
+   Product    : Potassium Sulphate (0-0-50+17S) or (0-0-52)
+   Local Names: SOP, Potash Sulphate
+   Dose       : 200-250 g per 10 liters of water = 2-2.5% solution
+   Per Acre   : 2-2.5 kg in 100 liters water
+   Application: 3-4 foliar sprays at 7-10 day intervals
+   Brands     : Engro SOP, Fauji SOP, Ittehad SOP — widely available in Punjab & Sindh
+   Notes      : Foliar K corrects deficiency in as little as 20 hours; essential during boll stage
+
+2. Potassium Nitrate (13-0-46) Foliar Spray — ALTERNATIVE
+   Dose       : 250-300 g per 10 liters of water
+   Brands     : Haifa Multi-K, Qrop K (various local distributors)
+   Notes      : Supplies both K and N simultaneously; better for nitrogen + potassium combined deficiency
+   Availability: Faisalabad, Lahore, Multan agri markets; Hyderabad, Sukkur in Sindh
+
+NITROGEN SUPPLEMENT SPRAY:
+---------------------------
+3. Urea Foliar Spray
+   Dose       : 10-15 g urea per liter of water (1-1.5% solution)
+   Per Acre   : 1-1.5 kg urea in 100-120 liters water
+   Application: 2-3 sprays at 10-day intervals
+   Notes      : Provides fast nitrogen; prevents chlorophyll breakdown; widely available and cheap
+   Important  : Do NOT use DAP as foliar (too high salt index; leaf burn risk); use urea only
+
+4. DAP (Di-Ammonium Phosphate) Soil Application
+   Dose       : 50 kg per hectare applied as soil dose
+   Notes      : For phosphorus deficiency early season reddening; not foliar — soil application only
+   Brands     : Engro DAP, FFC DAP — nationwide
+
+MAGNESIUM SUPPLEMENT (For Interveinal Reddening):
+--------------------------------------------------
+5. Magnesium Sulphate (MgSO4 / Epsom Salt)
+   Dose       : 20-25 g per 10 liters of water
+   Per Acre   : 2-2.5 kg in 100-120 liters water
+   Application: 2-3 sprays weekly
+   Notes      : Apply soil @ 25 kg/hectare for chronic Mg deficiency soils
+   Recovery   : 50-60% recovery in greenness reported within 2-3 sprays (MCV-5 variety trials)
+
+COMBINED RECOVERY SPRAY (Best Practice):
+-----------------------------------------
+6. Urea (1%) + MgSO4 (0.5%) + SOP (1%) Combination
+   Application: Mix all three; spray 2-3 times at 10-day intervals
+   Notes      : This combination is widely recommended by Pakistan Agriculture Extension services
+               for multi-nutrient deficiency reddening during boll stage
+
+ANTI-STRESS PLANT GROWTH REGULATOR:
+------------------------------------
+7. Ascorbic Acid 500 ppm + PMA (Phenylmercuric Acetate) 10 ppm
+   Notes      : Reduces oxidative stress; helps recovery when reddening caused by drought stress
+   Availability: Specialty agri shops in Lahore, Karachi, Multan, Hyderabad
+
+FOR PEST-INDUCED REDDENING (Jassid toxin):
+-------------------------------------------
+8. Imidacloprid (Confidor) + Urea Spray
+   Dose       : Confidor 0.5 ml/L + Urea 1% (10 g/L) mixed together
+   Notes      : Controls jassid (which causes toxin-induced reddening) + supplies nitrogen
+               for leaf recovery simultaneously; spray at sign of jassid + reddening together
+
+============================================================
+WEATHER-BASED SPRAY TIMING GUIDE (FOR RAG AGENT)
+============================================================
+
+CONDITION 1 — HOT & DRY (Temp: 38-45°C, Humidity: < 40%, Soil Moisture LOW)
+  → Most critical: drought stress + heat causing K and N depletion = MAXIMUM reddening risk
+  → IMMEDIATE ACTION: Irrigate first, then spray 12-24 hours after irrigation
+  → SPRAY: Potassium Sulphate (SOP) 2% + Urea 1% combination
+  → Spray time: EARLY MORNING ONLY (5:00-6:30 AM) — avoid leaf burn in heat
+  → Repeat spray every 7 days × 3-4 applications
+  → DO NOT delay — each day without K causes 1-2% boll shedding increase
+
+CONDITION 2 — BOLL STAGE WITH HEAVY BOLL LOAD (Aug–Sep in Punjab, Jul–Aug Sindh)
+  → Peak reddening period — cotton pulls nitrogen + potassium from leaves to bolls
+  → SPRAY: Potassium Nitrate (13-0-46) @ 2.5% solution — dual K and N
+  → Spray every 7-10 days; minimum 3 applications
+  → Apply additional urea soil top-dressing @ 25 kg/acre alongside foliar spray
+
+CONDITION 3 — AFTER RAIN (Leaching risk in Sandy Sindh Soils)
+  → Rain leaches potassium from sandy soils (common in Sindh)
+  → Survey fields 3-4 days after heavy rain for reddening
+  → SPRAY: SOP foliar spray within 5 days of rain
+  → Add Humic Acid (500 ml/acre) to improve K retention in soil
+
+CONDITION 4 — WATERLOGGED FIELD
+  → Root death = blocked nutrient uptake = reddening
+  → Drain field FIRST — no spray is effective on waterlogged plants
+  → After drainage: apply Potassium Sulphate soil + foliar combined
+  → Allow 3-5 days after drainage before assessing recovery
+
+CONDITION 5 — COLD NIGHTS (Temp < 18°C at night)
+  → Cold stress triggers anthocyanin (red pigment) accumulation
+  → This is seasonal/natural reddening — less intervention needed
+  → If early in season (May–June) and plants still young — apply Urea 1% spray
+  → If late season (October+) — natural senescence; no intervention needed
+
+CONDITION 6 — HUMID & WARM (Temp: 28-35°C, Humidity: 60-75%)
+  → Best nutrient absorption conditions
+  → Apply full treatment: SOP + Urea + MgSO4 combination spray
+  → Morning (6-8 AM) for best stomatal uptake
+  → Expect visible green recovery within 7-10 days of treatment
+
+CONDITION 7 — OVERCAST / CLOUDY
+  → Good spray conditions any time of day
+  → Potassium and magnesium foliar sprays most effective (no UV breakdown)
+
+============================================================
+IDENTIFICATION KEY: REDDENING vs CURL VIRUS
+============================================================
+REDDENING (Abiotic):
+✔ Affects older/lower leaves first
+✔ Margins turn red then spread inward
+✔ No leaf distortion or curling
+✔ Spreads uniformly across field
+✔ Improves with nutrient spray
+
+CURL VIRUS (Biotic):
+✗ Young upper leaves affected
+✗ Leaves curl upward and thicken
+✗ Veins engorge (pronounced vein swelling)
+✗ Spreads from plant to plant (focus pattern)
+✗ Does NOT improve with nutrient spray
+→ If these signs present, refer to Curl Virus file (06_Curl_Virus.txt)
+
+============================================================
+SOIL MANAGEMENT
+============================================================
+- Apply Muriate of Potash (MOP) @ 50-75 kg/acre in soil at planting
+- Gypsum (CaSO4) @ 500 kg/acre improves Ca and reduces K-Mg antagonism
+- Apply FYM (Farm Yard Manure) to build soil organic matter
+- Conduct annual soil test; target K > 120 ppm in soil
+
+============================================================
+LOCAL SUPPLIERS (Punjab & Sindh)
+============================================================
+- Engro Fertilizers (SOP, DAP, Urea) — nationwide distribution
+- Fauji Fertilizer Company (FFC) — Urea, DAP nationwide
+- Ittehad Chemicals — Potassium products
+- Haifa Group local distributors (Multi-K, Qrop K)
+- All local agri shops in: Multan, Vehari, Sahiwal, Rahim Yar Khan (Punjab)
+- Hyderabad, Mirpur Khas, Nawabshah, Sukkur (Sindh)
+
+============================================================
+END OF FILE: LEAF REDDENING
+============================================================

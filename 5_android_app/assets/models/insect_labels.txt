@@ -1,0 +1,3 @@
+0 -> Aphids
+1 -> Army worm
+2 -> Healthy

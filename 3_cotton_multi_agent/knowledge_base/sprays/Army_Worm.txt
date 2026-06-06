@@ -1,0 +1,156 @@
+============================================================
+DISEASE: ARMY WORM (Lashkar Keera) on Cotton (Kapas)
+Region: Punjab & Sindh, Pakistan
+============================================================
+
+--- PEST IDENTIFICATION ---
+Scientific Name : Spodoptera frugiperda (Fall Armyworm — FAW) & Spodoptera litura (Tobacco Armyworm)
+Local Name       : Lashkar Keera, Sundi, Patta Khor
+Affected Crops   : Cotton, Maize, Wheat, Vegetables
+Peak Season      : July–October (Cotton bolling stage)
+
+Symptoms:
+- Young larvae (green/brown caterpillars) skeletonize leaves, eating between veins
+- Older larvae (dark with stripes) eat entire leaf, leaving only mid-rib
+- Mass movement of caterpillars in "army" across fields (hence the name)
+- Irregular holes in leaves with ragged edges
+- Frass (dark pellet droppings) visible on leaves and soil
+- Damage appears suddenly and progresses rapidly
+- ETL (Economic Threshold Level): 1-2 larvae per plant OR 5-10% leaf damage
+
+--- CAUSES & FAVORABLE CONDITIONS ---
+- Warm humid weather (25-35°C) with moderate rainfall
+- Rainy season (July-September) triggers mass hatching in both Punjab and Sindh
+- FAW (S. frugiperda) was newly reported in Pakistan in 2019 — now established in Punjab and Sindh
+- Night-flying moths lay eggs in batches; eggs hatch in 2-3 days in hot weather
+- Heavy infestations noted in Multan, Bahawalpur (Punjab) and Sukkur, Hyderabad (Sindh)
+
+============================================================
+RECOMMENDED SPRAYS — PAKISTAN LOCAL MARKET
+============================================================
+
+GROUP 1: DIAMIDES (Most Effective Against Armyworm)
+----------------------------------------------------
+1. Coragen 20 SC (FMC Pakistan — widely available)
+   Active Ingredient : Chlorantraniliprole 20%
+   Dose              : 50-75 ml per acre (0.25-0.35 ml per liter of water)
+   Water Volume      : 100-120 liters per acre
+   Residual Effect   : 2-3 weeks
+   Notes             : Premium product; excellent control of all caterpillars; available across Punjab & Sindh
+
+2. Ampligo 150 ZC (Syngenta Pakistan)
+   Active Ingredient : Chlorantraniliprole 10% + Lambda-Cyhalothrin 5%
+   Dose              : 80 ml per acre
+   Notes             : Dual action — diamide + pyrethroid; fast knockdown + residual; good for heavy infestations
+
+GROUP 2: EMAMECTIN BENZOATE (Field-Proven in Pakistan)
+------------------------------------------------------
+3. Proclaim 5 SG (Syngenta Pakistan)
+   Active Ingredient : Emamectin Benzoate 5%
+   Dose              : 80-100 g per acre (0.4-0.5 g per liter of water)
+   Water Volume      : 100-120 liters per acre
+   Residual Effect   : 2 weeks
+   Notes             : Most popular caterpillar control spray in Punjab & Sindh; trusted by cotton farmers for bollworms + armyworm; available at all major agri shops
+
+4. Emamectin Benzoate 1.9 EC (Generic brands — Ravi Agrichem, Fazal Agri Mall, multiple local companies)
+   Active Ingredient : Emamectin Benzoate 1.9%
+   Dose              : 300-400 ml per acre (1.5-2 ml per liter of water)
+   Notes             : Economical option; widely available in rural markets; trusted in Sindh and South Punjab
+
+GROUP 3: SPINOSYNS (New Generation — Resistance Management)
+-----------------------------------------------------------
+5. Tracer 120 SC (Dow AgroSciences / Corteva Pakistan)
+   Active Ingredient : Spinosad 12%
+   Dose              : 75-100 ml per acre
+   Notes             : Excellent resistance management tool; safe for many beneficial insects; rotate with Proclaim
+
+6. Spinetoram (Radiant SC — Corteva, available through JAS distributors)
+   Active Ingredient : Spinetoram 12%
+   Dose              : 100 ml per acre
+   Notes             : Newer spinosyn; good FAW activity; recommended where resistance to older chemistries suspected
+
+GROUP 4: ORGANOPHOSPHATES + PYRETHROIDS (Budget Options)
+---------------------------------------------------------
+7. Lorsban 40 EC (Chlorpyrifos — Corteva/local equivalents)
+   Active Ingredient : Chlorpyrifos 40%
+   Dose              : 500-750 ml per acre (2.5-3.5 ml per liter of water)
+   Notes             : Widely available; however, HIGH RESISTANCE reported in Punjab strains of FAW — use as last resort or in mixtures only; available in all markets
+
+8. Karate / Talstar (Lambda-Cyhalothrin or Bifenthrin — Syngenta/FMC local)
+   Active Ingredient : Lambda-Cyhalothrin 5% EC or Bifenthrin 10%
+   Dose              : 300 ml per acre
+   Notes             : Fast knockdown; pyrethroid resistance developing; mix with Emamectin for better control
+
+IMPORTANT RESISTANCE WARNING (2025):
+- Research from University of Punjab (2025) confirmed FAW resistance to:
+  Cypermethrin (540x resistance ratio), Chlorpyrifos (222x), Emamectin Benzoate (91x)
+- Rotate chemical classes every spray; do NOT rely on single chemistry
+- Diamides (Coragen) + Emamectin rotation is currently the recommended strategy
+
+============================================================
+WEATHER-BASED SPRAY TIMING GUIDE (FOR RAG AGENT)
+============================================================
+
+CONDITION 1 — WARM & HUMID / AFTER RAIN (Temp: 25-35°C, Humidity: 60-80%)
+  → PEAK ARMYWORM SEASON — check fields daily
+  → Larvae are active at night; spray in EVENING (6-8 PM) for best control
+  → SPRAY: Emamectin Benzoate (Proclaim) or Coragen
+  → Add a good spreader-sticker in humid conditions
+  → If larvae in stage 1-2 (small, green, up to 1 cm) — Spinosad is sufficient
+  → If larvae in stage 3-4 (large, dark, > 2 cm) — Use Emamectin or Coragen; higher dose
+
+CONDITION 2 — DRY & HOT (Temp: 38-45°C, Humidity: < 40%)
+  → Armyworm activity reduced in extreme heat
+  → Spray early morning (5-7 AM) only
+  → Soil moisture stress weakens plants — irrigate, then spray after 12 hours
+  → Chemical residual reduced in heat; may need re-spray in 7-10 days
+
+CONDITION 3 — AFTER HEAVY RAIN (>25 mm)
+  → Larvae wash to ground — re-infestation from soil
+  → Wait 24 hours after rain, then spray thoroughly (soil + foliage)
+  → Use Chlorpyrifos soil spray + foliar Emamectin combination
+  → Scout fields within 48 hours of rain for new egg masses
+
+CONDITION 4 — MONSOON CONTINUOUS RAIN
+  → Spray is difficult; prioritize mechanical control (egg collection)
+  → Use waterproof formulations (SC, WG, WP better than EC in rain)
+  → Spray in dry weather windows (morning gaps between showers)
+
+CONDITION 5 — CLOUDY BUT DRY
+  → Best spray window for pyrethroids + emamectin combination
+  → Spray afternoon (3-5 PM) when larvae start moving up the plant
+
+CONDITION 6 — DUST STORM / HIGH WIND (> 20 km/h)
+  → Do NOT spray; wait for calm conditions
+  → Larvae shelter during storms; spray after storm passes (next morning)
+
+============================================================
+RESISTANCE MANAGEMENT ROTATION SCHEDULE
+============================================================
+Spray 1 (First Sighting): Spinosad (Tracer) — morning spray
+Spray 2 (7 days later if needed): Emamectin Benzoate (Proclaim)
+Spray 3 (if outbreak severe): Coragen (Chlorantraniliprole)
+Do NOT: Use Chlorpyrifos or Cypermethrin alone — resistance too high in Punjab
+
+============================================================
+INTEGRATED PEST MANAGEMENT (IPM)
+============================================================
+- Pheromone traps: Place 5-6 per acre for FAW (Spodoptera frugiperda) monitoring
+- Egg parasitoids: Trichogramma wasps — release 50,000 per acre (available from Punjab Agriculture Dept)
+- Biological spray: Bacillus thuringiensis (Bt) sprays (DiPel WP) — effective on young larvae
+- Hand-picking: Effective in small fields; early morning when larvae are on upper leaves
+- Light traps: Attract adult moths at night; reduce egg-laying population
+
+============================================================
+LOCAL SUPPLIERS (Punjab & Sindh)
+============================================================
+- Syngenta Pakistan (Proclaim, Actara, Ampligo) — through JAS Jaffer Group
+- FMC Pakistan (Coragen) — Lahore/Karachi offices; distributed nationwide
+- Corteva Pakistan (Lorsban, Tracer) — Lahore headquarters
+- Ravi Agrichem (generic emamectin, chlorpyrifos) — Punjab distribution
+- Fazal Agri Mall (Online — Proclaim, Coragen, Emamectin)
+- Major markets: Multan Agri Market, Bahawalpur, Sahiwal, Hyderabad, Sukkur
+
+============================================================
+END OF FILE: ARMY WORM
+============================================================

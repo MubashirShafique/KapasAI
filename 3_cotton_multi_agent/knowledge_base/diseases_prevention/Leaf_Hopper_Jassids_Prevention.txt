@@ -1,0 +1,304 @@
+
+1. OVERVIEW / INTRODUCTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Jassids (Cotton Leaf Hoppers), scientifically known as Amrasca biguttula biguttula 
+(Ishida), are one of the most destructive sucking pests of cotton in South Asia. 
+They are small, wedge-shaped insects belonging to the family Cicadellidae 
+(Order: Hemiptera).
+
+Jassids are a PERENNIAL, SEASON-LONG THREAT in cotton fields of both Pakistan 
+and ''. In Pakistan alone, jassid infestations cause an estimated 15–40% 
+reduction in seed cotton yield every season when left unmanaged. In '' 
+(particularly in the non-Bt cotton zones of Punjab and Haryana), the damage 
+can exceed 30% during peak infestation.
+
+Scientific Classification:
+  Kingdom  : Animalia
+  Phylum   : Arthropoda
+  Class    : Insecta
+  Order    : Hemiptera
+  Family   : Cicadellidae
+  Genus    : Amrasca
+  Species  : A. biguttula biguttula
+
+Common Names: Jassid (Pakistan/''), Cotton Leaf Hopper, Lal Teela (Punjabi), 
+              Tela (Sindhi), Leafhopper (English)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. IDENTIFICATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Adult Jassid:
+  - Size: 2.5–3.5 mm long
+  - Color: Pale yellowish-green with two black spots on the forewing
+  - Shape: Wedge-shaped, wider at head, tapering toward rear
+  - Moves: Runs sideways quickly when disturbed (distinctive crab-like movement)
+  - Wings: Hold wings tent-like over body at rest
+
+Nymphs (immature):
+  - Wingless, pale green
+  - 5 nymphal instars (stages) before becoming adult
+  - More damaging per individual than adults during feeding
+
+Eggs:
+  - Inserted into leaf veins (endophytic) — invisible to naked eye
+  - Hatch in 7–10 days depending on temperature
+  - Pakistan: Peak egg laying April–June and again August–September
+
+Life Cycle Duration:
+  - Egg to adult: 16–24 days (faster in hot weather 35–42°C)
+  - Adults live: 20–30 days
+  - Generations per season: 8–12 overlapping generations
+  - Pakistan: April–October is peak activity season
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. DAMAGE SYMPTOMS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+How Jassids Cause Damage:
+  - Both adults and nymphs feed on undersides of cotton leaves
+  - Insert stylet (needle-like mouthpart) into phloem tissue
+  - Inject toxic saliva that disrupts phloem transport
+  - Extract phloem sap (nutrients and sugars)
+
+Progressive Damage Stages:
+  Stage 1 (Early): Yellowing at leaf margins; small triangular yellow patches at tips
+  Stage 2 (Moderate): Yellow patches enlarge; leaves curl downward and inward
+  Stage 3 (Severe - "Hopper Burn"): 
+    - Leaf margins turn brown/reddish-brown (scorched appearance)
+    - Leaf curl severe — looks like "dried tobacco leaf"
+    - Leaves become crisp, brittle, and eventually fall off
+  Stage 4 (Critical): Complete defoliation of lower canopy, 
+    stunted plant growth, boll shedding, severe yield loss
+
+Economic Threshold (Action Level):
+  - Pakistan: 1–2 nymphs per leaf (counted on 3 leaves per plant, 5 plants/acre)
+  - '': Economic Threshold Level (ETL) = 2 jassids per leaf
+  - Above threshold: Immediate control measures required
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. FACTORS FAVORING JASSID BUILDUP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Environmental Factors:
+  - Hot, dry weather (35–45°C) with low humidity favors rapid multiplication
+  - Pakistan's May–July period provides ideal conditions
+  - Overcast, humid weather slows population growth
+  - Excessive nitrogen fertilization (lush green growth attracts more jassids)
+  - Dense plant populations (overcrowded fields)
+
+Cultural Factors:
+  - Late planting misses the window for resistant varieties
+  - Susceptible varieties (smooth leaf, high nitrogen uptake)
+  - Nearby alternate host plants (okra, tomato, brinjal, weeds)
+  - Killing of natural enemies through excessive insecticide use
+  - Irrigated fields with lush growth more attractive
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. PREVENTION STRATEGIES — DETAILED (THE CORE FOCUS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5.1 RESISTANT VARIETY SELECTION (First Line of Defense)
+---------------------------------------------------------
+Cotton varieties with hairy leaves (pubescent/okra leaf) naturally resist jassids.
+The tiny hairs (trichomes) on leaf surfaces impede nymph movement and feeding.
+
+PAKISTAN — Recommended Jassid-Tolerant Varieties:
+  - CRSM-38 (Central Cotton Research Station Multan)
+  - FH-142, FH-152 (Faisalabad Hybrid — moderate resistance)
+  - Sitara-008 (high yield, moderate resistance)
+  - MNH-886, MNH-1016 (Multan Nuclear Holdings)
+  - IUB-222 (Islamia University Bahawalpur)
+  - NIAB-512 (hairy leaf type — good jassid resistance)
+  Note: Okra-leaf and sub-okra leaf types have highest resistance
+
+'' — Recommended Jassid-Tolerant Varieties:
+  - LH-1556, LH-2108 (Punjab Agricultural University, Ludhiana)
+  - HD-107 (Haryana)
+  - Suraj (Gujarat — high hair density)
+  - Khandwa-2 (hairy leaf type, CICR recommended)
+  - JKCH-1947 (Bt hybrid with moderate jassid tolerance)
+  - Vikram (Rajasthan, hairy leaf character)
+
+Variety Selection Criteria:
+  ✓ High leaf hair density (pubescence)
+  ✓ Okra or sub-okra leaf shape (reduces microclimate for pest)
+  ✓ Thick leaf cuticle
+  ✓ Fast canopy closure (reduces exposed leaf area time)
+
+5.2 TIMELY SOWING
+------------------
+Pakistan:
+  - Optimal sowing: April 15 – May 15 in Punjab
+  - Sindh: March 15 – April 30
+  - Early sowing ensures plant is at boll-set stage before peak jassid July–August
+  - Very late sowing (June+) means young leaves exposed during peak pest season
+
+'':
+  - Punjab/Haryana: Sow by May 15–June 15
+  - Vidarbha: June 1–July 15 (post-monsoon onset)
+  - Avoid late sowing — jassid populations peak August–September
+
+5.3 PROPER PLANT SPACING & DENSITY
+-------------------------------------
+  - Avoid overcrowding: Recommended spacing 75cm × 30cm (row × plant)
+  - Dense canopy creates humid microclimate that slows jassid spread, BUT
+  - Overcrowded fields: poor air circulation = pesticide penetration difficulty
+  - Recommended plant population: 16,000–20,000 plants/acre (Pakistan)
+  - Thin excess plants within 3 weeks of emergence
+
+5.4 WEED MANAGEMENT AS PREVENTION
+------------------------------------
+  - Remove alternate host weeds: Okra-family weeds, Malvastrum (false mallow), 
+    Sida sp. (Bakra buti), and Hibiscus weeds harbor jassid populations
+  - Clear field borders of weeds before planting season
+  - Use narrow inter-row cultivation to destroy weed hosts
+  - Pakistan: Chaulai (Amaranthus) and Lana weeds also host jassids — remove
+
+5.5 FERTILIZER MANAGEMENT
+----------------------------
+  - Avoid EXCESSIVE nitrogen: Lush, soft, nitrogen-rich foliage is preferred 
+    by jassids — it's more tender and easier to pierce
+  - Balanced NPK: For cotton in Pakistan, recommended ratio 2:1:1 (N:P:K)
+  - Split nitrogen applications: Do not apply large single doses
+  - Apply potash (K2O) at 40–50 kg/acre — potassium increases cell wall 
+    strength, making leaves less favorable for jassid feeding
+  - Avoid urea broadcasting in humid/rainy weather — leaches and causes lush 
+    vulnerable growth flush
+
+5.6 CONSERVATION OF NATURAL ENEMIES
+--------------------------------------
+Jassid natural enemies in Pakistan & '' cotton:
+  A. Predators:
+     - Chrysoperla carnea (Green lacewing) — larvae eat jassid eggs and nymphs
+     - Coccinella septempunctata (Ladybird beetle) 
+     - Orius sp. (Minute pirate bug)
+     - Spiders (wolf spider, crab spider) — general predators on leaves
+  
+  B. Parasitoids:
+     - Gonatocerus sp. (egg parasitoid)
+     - Anagrus atomus (egg parasitoid)
+  
+  C. Entomopathogenic fungi:
+     - Beauveria bassiana (naturally infects jassids during humid periods)
+     - Metarhizium anisopliae
+
+  HOW TO CONSERVE NATURAL ENEMIES:
+     ► Avoid broad-spectrum insecticides (organophosphates, pyrethroids) 
+       in the first 45 days of crop — most natural enemies establish early
+     ► Use selective/targeted insecticides only (imidacloprid seed treatment)
+     ► Maintain flowering border crops (coriander, fennel) to support 
+       parasitoid wasps
+     ► Reduce spray frequency — spray only when ETL is exceeded
+
+5.7 PHYSICAL & CULTURAL PREVENTION MEASURES
+----------------------------------------------
+  A. Sticky Yellow Traps:
+     - Install yellow sticky traps @ 8–10 traps/acre to monitor adult population
+     - Place at plant canopy level
+     - Replace every 2 weeks
+     - Acts as early warning system — spray only when trap counts rise sharply
+
+  B. Light Traps:
+     - UV light traps attract adult jassids at night
+     - Set up 1 trap per 4–5 acres
+     - Provides population trend data for spray timing decisions
+
+  C. Reflective Mulch:
+     - Silver/aluminum reflective plastic mulch along rows confuses jassid 
+       orientation and reduces colonization
+     - Used primarily in small-scale/kitchen garden cotton settings
+     - Less practical for large commercial fields in Pakistan/''
+
+5.8 SEED TREATMENT AS PREVENTIVE MEASURE
+------------------------------------------
+  - Imidacloprid 70% WS seed treatment @ 5–7 g/kg seed
+    Provides systemic protection for first 35–45 days
+    Highly effective against early-season jassid colonization
+  - Thiamethoxam 30% FS @ 10 ml/kg seed — alternative to imidacloprid
+  - IMPORTANT: Seed treatment protection does NOT last full season — 
+    field monitoring still required after 45 days
+
+  Pakistan: Seed treatment is mandated by CCRI for certified cotton seed lots
+  '': Included in package of practices by state agriculture departments
+
+5.9 BOTANICAL / BIO-PESTICIDE PREVENTION
+------------------------------------------
+For organic or low-input farming systems:
+  A. Neem-based products:
+     - Neem oil (Azadirachtin 1500 ppm) @ 5 ml/liter — apply fortnightly
+     - Neem Seed Kernel Extract (NSKE) 5% — disrupt jassid feeding and molting
+     - Apply in evening — neem degrades in UV light
+
+  B. Beauveria bassiana (entomopathogenic fungus):
+     - Commercial products: BioKill, Mycotal (''), Marvelous BB (Pakistan)
+     - Apply at 5×10^9 spores/ml spray @ 2–3 ml/liter
+     - Best applied during humid/cloudy conditions (>70% relative humidity)
+     - Infects jassid nymphs and adults within 5–7 days
+
+  C. Verticillium lecanii:
+     - Applied as foliar spray — targets soft-bodied insects including jassids
+     - Dose: 2×10^8 spores/ml
+
+5.10 INTERCROPPING TO REDUCE JASSID PRESSURE
+----------------------------------------------
+  - Intercrop cotton with: Cowpea (lobia), Moong, or Clusterbean (guar)
+    These attract natural enemies and provide diversified habitat
+  - Trap crop: Plant small plots of susceptible okra around cotton field borders
+    Jassids concentrate on okra border → destroy/spray okra plots selectively
+  - Pakistan Sindh farmers use jowar (sorghum) windbreaks that also reduce drift 
+    and provide habitat for spiders and other predators
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. MONITORING PROTOCOL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Weekly Scouting Method:
+  1. Select 20 plants randomly across the field (diagonal transect pattern)
+  2. On each plant: examine 3 leaves (upper, middle, lower canopy)
+  3. Count NYMPHS only (nymphs are more indicative of infestation level)
+  4. Record: nymphs per leaf per plant
+  5. Calculate average nymphs/leaf
+  6. Action threshold: ≥2 nymphs/leaf = spray required
+
+Best Scouting Time: Morning (7–10 AM) when jassids are active
+Avoid scouting: During hot afternoon (insects less visible)
+
+Record Keeping Table (per field):
+---------------------------------------------------------------------------
+Date       | Plants Checked | Avg Nymphs/Leaf | Action Taken
+---------------------------------------------------------------------------
+           |                |                 |
+---------------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. PREVENTION CALENDAR — PAKISTAN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Month     Activity
+-------   ---------------------------------------------------------------
+March     Select pubescent/hairy variety seeds; buy neem oil stocks
+April     Treat seed with imidacloprid; prepare sticky traps
+May       Sow on time; install traps; begin weekly scouting from week 2
+June      Monitor closely; apply neem if <ETL; conserve natural enemies
+July      PEAK JASSID MONTH — scout twice weekly; apply if ETL exceeded
+August    Continue monitoring; second population peak possible
+Sept      Reduce spray inputs; boll protection priority shifts
+October   Harvest; destroy crop residue to kill overwintering adults/eggs
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. KEY CONTACTS & RESOURCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PAKISTAN:
+  - Central Cotton Research Institute (CCRI) Multan — IPM helpline
+  - AARI Faisalabad — Cotton Entomology Department
+  - Cotton Growers Association of Pakistan: www.cgap.org.pk
+
+'':
+  - ICAR-CICR, Nagpur — www.cicr.org.in
+  - Kisan Call Centre: 1800-180-1551 (free helpline)
+  - State Agriculture University Extension Services
+
+

@@ -1,0 +1,142 @@
+============================================================
+DISEASE: APHIDS (Tela / Mahu) on Cotton (Kapas)
+Region: Punjab & Sindh, Pakistan
+============================================================
+
+--- PEST IDENTIFICATION ---
+Scientific Name : Aphis gossypii (Cotton Aphid)
+Local Name (Urdu/Punjabi): Tela, Mahu, Cheppa
+Affected Crop Stage : Seedling to Boll Development
+
+Symptoms:
+- Tiny soft-bodied insects (green/black/yellow) clustered under leaves and on growing tips
+- Leaves curl downward and become sticky with honeydew
+- Sooty mold (black fungus) develops on honeydew deposits
+- Ants are attracted to honeydew (a reliable field indicator)
+- Severe infestations stunt plant growth and reduce boll setting
+- Economic Threshold Level (ETL): 20-25 aphids per leaf OR 10% infested plants
+
+--- CAUSES & FAVORABLE CONDITIONS ---
+- Hot, dry weather (35-42°C) with low humidity (Punjab summer peak)
+- Excessive nitrogen fertilizer causing lush soft growth
+- Early season (May–June) particularly dangerous in both Punjab and Sindh
+- Absence of natural enemies (ladybird beetles, lacewings)
+
+============================================================
+RECOMMENDED SPRAYS — PAKISTAN LOCAL MARKET
+============================================================
+
+GROUP 1: NEONICOTINOIDS (Systemic — Best First Choice)
+-------------------------------------------------------
+1. Confidor 200 SL (Bayer CropScience Pakistan)
+   Active Ingredient : Imidacloprid 17.8% w/w
+   Dose              : 100 ml per acre (0.5 ml per liter of water)
+   Water Volume      : 100-120 liters per acre
+   Residual Effect   : 3-4 weeks
+   Availability      : Widely available Punjab & Sindh — all major agri shops
+   Notes             : Most trusted brand among Pakistani farmers; effective against aphids, jassids, whitefly
+
+2. Actara 25 WG (Syngenta Pakistan)
+   Active Ingredient : Thiamethoxam 25%
+   Dose              : 60-80 g per acre (0.3-0.4 g per liter of water)
+   Water Volume      : 100-120 liters per acre
+   Residual Effect   : 3 weeks
+   Notes             : Fast knockdown, systemic; good resistance management option when rotating with Imidacloprid
+
+3. Mospilan 20 SP (Nippon Soda / local distributors)
+   Active Ingredient : Acetamiprid 20%
+   Dose              : 80-100 g per acre (0.4 g per liter of water)
+   Water Volume      : 100-120 liters per acre
+   Notes             : Effective against aphids; also marketed as Swat Agro Acetamiprid 20SP; available Kissan Ghar, IR Farm online & local markets
+
+4. Suncrop Alpine (Suncrop Group Pakistan)
+   Active Ingredient : Acetamiprid
+   Dose              : 80-100 g per acre
+   Notes             : Suncrop brand widely trusted in Sindh & South Punjab
+
+GROUP 2: ORGANOPHOSPHATES (Contact/Systemic Mix)
+-------------------------------------------------
+5. Tamaron 60 SL (Bayer / local equivalents)
+   Active Ingredient : Methamidophos 60%
+   Dose              : 250-300 ml per acre
+   Notes             : Broad spectrum; use when resistance to neonicotinoids suspected; rotate with Group 1
+
+6. Dimethoate 40 EC (multiple local brands — Ravi Agrichem, ACI, Ihsan Sons)
+   Active Ingredient : Dimethoate 40%
+   Dose              : 200 ml per acre (1 ml per liter of water)
+   Notes             : Budget-friendly, widely available in rural areas of Punjab & Sindh; contact + systemic action
+
+GROUP 3: BIOLOGICAL/SOFT OPTION
+--------------------------------
+7. Neem Oil 2% Spray (Various local formulations — Sayban International, local vendors)
+   Dose              : 20 ml neem oil + 2 ml liquid soap per liter of water
+   Notes             : Use at early infestation; safe for beneficial insects (ladybird beetles); available in all major markets
+
+============================================================
+WEATHER-BASED SPRAY TIMING GUIDE (FOR RAG AGENT)
+============================================================
+
+CONDITION 1 — HOT & DRY (Temp: 38-45°C, Humidity: <40%, Wind: <10 km/h)
+  → Peak aphid season (May–July in Punjab; April–June in Sindh)
+  → SPRAY: Imidacloprid (Confidor) or Thiamethoxam (Actara)
+  → Spray time: Early morning (5:00-7:00 AM) or late evening (6:00-8:00 PM)
+  → DO NOT spray during peak heat (10 AM–4 PM) — chemical breaks down faster
+  → Water stress weakens plants; irrigate before spraying for better absorption
+
+CONDITION 2 — WARM & HUMID (Temp: 28-35°C, Humidity: 60-80%)
+  → Natural enemies (ladybirds) are active; check ETL before spraying
+  → Spray only if ETL crossed: 20-25 aphids/leaf
+  → SPRAY: Acetamiprid (Mospilan/Alpine) preferred — less harmful to beneficials
+  → Spray timing: Morning (6:00-8:00 AM)
+
+CONDITION 3 — AFTER RAIN OR IRRIGATION
+  → Wait minimum 2-3 hours after rain before spraying
+  → If rain expected within 2 hours — do NOT spray (chemical washes off)
+  → Best window: 24-48 hours after rain (aphids resurge quickly in humid conditions)
+  → Add sticker/spreader to spray solution in humid conditions
+
+CONDITION 4 — WINDY CONDITIONS (Wind > 15 km/h)
+  → Do NOT spray; drift will reduce efficacy and waste product
+  → Wait for calm morning hours
+
+CONDITION 5 — CLOUDY / OVERCAST (No direct sunlight)
+  → Good window for spraying; UV degradation is lower
+  → Systemic insecticides work well; spray any time during day
+
+CONDITION 6 — COLD NIGHTS (Temp < 18°C at night)
+  → Aphid activity slows; spray may not be needed
+  → Monitor only; spray if daytime temp rises above 25°C
+
+============================================================
+RESISTANCE MANAGEMENT & ROTATION (CRITICAL FOR PAKISTAN)
+============================================================
+- Do NOT use the same chemical class more than 2 consecutive sprays
+- Rotate: Group 1 (Neonicotinoid) → Group 2 (Organophosphate) → Group 1
+- Resistance to Imidacloprid is developing in Punjab — rotate with Acetamiprid or Thiamethoxam
+- Punjab farmers currently use 7-8 spray applications per season — reduce by using ETL-based decisions
+
+============================================================
+INTEGRATED PEST MANAGEMENT (IPM) TIPS
+============================================================
+- Preserve natural enemies: Avoid broad-spectrum sprays like Cypermethrin in early season
+- Yellow sticky traps: Place 4-6 per acre for monitoring
+- Avoid excess nitrogen fertilizer — reduces plant susceptibility
+- Use resistant/tolerant varieties recommended by Punjab & Sindh Agriculture Departments
+- Early sowing (April 1-15 in Punjab; March–April in Sindh) reduces peak aphid pressure
+
+============================================================
+LOCAL SUPPLIERS (Punjab & Sindh)
+============================================================
+- Ravi Agrichem (Punjab focus)
+- Ihsan Sons (Multan/South Punjab)
+- Suncrop Group (Multan — Sindh & Punjab)
+- Sayban International (Sindh & Punjab)
+- JAS (Jaffer Group, Syngenta distributor — nationwide)
+- Fazal Agri Mall (Online — nationwide delivery)
+- Kissan Ghar (Online — nationwide)
+- IR Farm (Online — nationwide)
+- Local agri shops in: Multan, Bahawalpur, Rahim Yar Khan, Sukkur, Hyderabad, Mirpur Khas
+
+============================================================
+END OF FILE: APHIDS
+============================================================

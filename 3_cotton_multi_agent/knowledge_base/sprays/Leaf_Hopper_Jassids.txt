@@ -1,0 +1,189 @@
+============================================================
+DISEASE: LEAF HOPPER / JASSIDS (Tiddha) on Cotton (Kapas)
+Region: Punjab & Sindh, Pakistan
+============================================================
+
+--- PEST IDENTIFICATION ---
+Scientific Name : Amrasca biguttula biguttula (Ishida) — Cotton Jassid
+                  Amrasca devastans (Distant) — also reported
+Local Name       : Tiddha, Jassid, Chota Tiddha
+Type             : Sucking pest (both nymphs and adults damage)
+Affected Stage   : All stages; most damaging during vegetative to early boll stage
+
+Symptoms:
+- Wedge-shaped tiny green/yellow insects (2-3 mm); jump when disturbed
+- Both nymphs and adults suck sap from underside of leaves
+- Inject salivary toxins that DESTROY plant tissue (not just nutrient removal)
+- HOPPER BURN: Leaf margins turn yellow, then red/brown, then curl downward (cup shape)
+- Yellowing/browning starts at leaf edges and progresses inward (triangular burn)
+- Severely affected leaves become leathery, crinkle, and dry
+- Overall plant stunting, reduced flowering, boll shedding
+- ETL (Economic Threshold Level): 1-2 jassids per leaf (young plant stage)
+                                   2-4 per leaf at flowering/boll stage
+
+--- CAUSES & FAVORABLE CONDITIONS ---
+- Hot, dry weather (30-40°C) with LOW humidity (< 50%) = PEAK season
+- April–August = Peak period in both Punjab and Sindh
+- Dense planting increases jassid population
+- Sandy/light soils with stressed plants more vulnerable
+- Khairpur (Sindh) and Multan, Bahawalpur (Punjab) are endemic jassid zones
+- Research from Khairpur, Sindh confirms Amrasca biguttula biguttula as dominant species
+
+============================================================
+RECOMMENDED SPRAYS — PAKISTAN LOCAL MARKET
+============================================================
+
+GROUP 1: NEONICOTINOIDS — FIRST LINE (Systemic, Long Residual)
+--------------------------------------------------------------
+1. Confidor 200 SL (Bayer CropScience Pakistan) ★ MOST POPULAR
+   Active Ingredient : Imidacloprid 17.8% (200 g/L SL)
+   Dose              : 100 ml per acre (0.5 ml per liter of water)
+   Water Volume      : 100-120 liters per acre
+   Residual Effect   : 3-4 weeks
+   Efficacy          : >89% mortality within 72 hours (Pakistan field trials)
+   Availability      : ALL major agri shops in Punjab & Sindh — most trusted brand
+   Notes             : Single most popular jassid spray in Pakistan; rotate after 2 applications
+
+2. Actara 25 WG (Syngenta Pakistan)
+   Active Ingredient : Thiamethoxam 25%
+   Dose              : 60-80 g per acre
+   Water Volume      : 100-120 liters per acre
+   Residual Effect   : 3 weeks
+   Notes             : Fast acting; disrupts nerve transmission; excellent against both adults and nymphs
+
+3. Mospilan 20 SP (Acetamiprid — Nippon Soda / local distributors)
+   Active Ingredient : Acetamiprid 20%
+   Dose              : 80-100 g per acre
+   Notes             : Best for rotation with Imidacloprid; also marketed locally as generic Acetamiprid 20SP by Swat Agro Chemicals
+
+4. Calypso 24 OD (Bayer — local availability)
+   Active Ingredient : Thiacloprid 24%
+   Dose              : 250-300 ml per acre
+   Notes             : Good rotation partner within neonicotinoid class; different binding site than Imidacloprid
+
+5. Diamond 20 SP (local brand — Acetamiprid generic)
+   Active Ingredient : Acetamiprid 20%
+   Dose              : 80-100 g per acre
+   Notes             : Budget option; widely available in rural Punjab & Sindh markets
+
+GROUP 2: DIAFENTHIURON — SECOND LINE (Different Mode of Action)
+---------------------------------------------------------------
+6. Polo 500 SC (Syngenta Pakistan) ★ HIGHLY EFFECTIVE
+   Active Ingredient : Diafenthiuron 50%
+   Dose              : 200-250 ml per acre
+   Water Volume      : 100-120 liters per acre
+   Residual Effect   : 2-3 weeks
+   Notes             : Excellent for resistance management — completely different chemistry from neonicotinoids;
+                       effective against both jassid adults and nymphs; very popular in Punjab for rotation use
+
+GROUP 3: ORGANOPHOSPHATES + PYRETHROIDS (Contact, Budget)
+---------------------------------------------------------
+7. Dimethoate 40 EC (Multiple local brands — Ravi Agrichem, Ihsan Sons, ACI)
+   Active Ingredient : Dimethoate 40%
+   Dose              : 200 ml per acre (1 ml per liter)
+   Notes             : Systemic + contact; very affordable; available in all rural shops Punjab & Sindh
+
+8. Cypermethrin 10 EC (various local brands) — limited use
+   Active Ingredient : Cypermethrin 10%
+   Dose              : 300 ml per acre (1.5 ml per liter)
+   Notes             : Fast knockdown but resistance high in jassid populations; use only as emergency;
+                       harmful to beneficial insects
+
+9. Lambda-Cyhalothrin (Karate 5 EC — Syngenta)
+   Dose              : 300 ml per acre
+   Notes             : Contact pyrethroid; fast knockdown; use as part of mixture with neonicotinoid
+
+GROUP 4: BIOPESTICIDE OPTIONS (Sindh Organic Farming / IPM)
+-----------------------------------------------------------
+10. Neem Seed Kernel Extract 5% (NSKE)
+    Dose              : 50 ml NSKE + 1 ml soap per liter water
+    Notes             : Effective on nymphs; safe for beneficials; use in early season below ETL
+
+11. Verticillium lecanii (Entomopathogenic Fungus)
+    Dose              : 1×10^8 CFU/ml; follow label
+    Notes             : Biological control; effective in humid conditions (>65% humidity)
+    Availability      : Limited; through Punjab Agriculture Department biological control labs
+
+============================================================
+WEATHER-BASED SPRAY TIMING GUIDE (FOR RAG AGENT)
+============================================================
+
+CONDITION 1 — HOT & DRY (Temp: 30-42°C, Humidity: < 50%)
+  → ★★★ PEAK JASSID SEASON — highest population and damage risk
+  → Favorable temp range for jassids: 21-31°C (peaks around 35-38°C)
+  → SPRAY: Confidor (Imidacloprid) or Actara (Thiamethoxam)
+  → Spray time: EARLY MORNING (5:00-7:00 AM) or LATE EVENING (6:00-8:00 PM)
+  → Do NOT spray in midday heat — chemical degrades faster; leaf absorption reduced
+  → Irrigate field 24 hours before spraying — reduces plant stress and improves uptake
+  → Add 0.2% spreader-sticker to improve coverage on waxy leaf surface
+  → Check fields every 3-4 days; jassid populations can triple in 7 days in heat
+
+CONDITION 2 — WARM & HUMID (Temp: 28-35°C, Humidity: 55-80%)
+  → Jassid still active but natural enemies (parasitic wasps, spiders) also active
+  → Check ETL before spraying: spray only if > 1-2 per leaf
+  → SPRAY: Acetamiprid (Mospilan/Diamond) — less harmful to beneficial insects
+  → Biological option: Neem spray if below ETL (preventive)
+  → Morning spray (6-8 AM) preferred
+
+CONDITION 3 — MONSOON RAIN SEASON (July–September, Sindh & Punjab)
+  → Rain temporarily reduces jassid population
+  → BUT: after rain, warm humid conditions cause RAPID population resurgence
+  → Scout fields within 3-4 days after rain
+  → If ETL crossed post-rain: Spray Polo (Diafenthiuron) — more rain-resistant
+  → WP or SC formulations preferred over EC in humid conditions (better adhesion)
+  → Spray 24-48 hours after rain (when leaves are dry)
+
+CONDITION 4 — AFTER IRRIGATION
+  → Irrigated cotton is more succulent — more attractive to jassids
+  → Scout 3-5 days after each irrigation for jassid buildup
+  → Preventive spray if previous cycle showed high population
+  → Use systemic insecticide (Imidacloprid/Thiamethoxam) for 3-week protection
+
+CONDITION 5 — WINDY WEATHER (> 15 km/h)
+  → Do NOT spray — drift reduces efficacy; jassids hide beneath leaves
+  → Wait for calm morning or evening hours
+  → Jassids move to underside of leaves in wind — ensure spray reaches underside
+
+CONDITION 6 — COLD WEATHER (Temp < 20°C at night)
+  → Jassid activity slows significantly
+  → Monitor only; spray not usually required below 20°C sustained temperatures
+  → If temperatures rise again: immediate scouting required
+
+SPRAY COVERAGE TIP FOR JASSIDS:
+- Jassids live on UNDERSIDE of leaves — direct nozzle upward to reach under-leaf surface
+- Use higher water volume (120-150 liters/acre) for thorough coverage
+- Use fan nozzle rather than cone nozzle for better underside coverage
+
+============================================================
+RESISTANCE MANAGEMENT ROTATION SCHEDULE (Pakistan)
+============================================================
+Spray Cycle 1: Imidacloprid (Confidor) — Neonicotinoid Group 4A
+Spray Cycle 2: Diafenthiuron (Polo) — Different mode of action entirely
+Spray Cycle 3: Acetamiprid (Mospilan/Diamond) — Neonicotinoid Group 4A
+Spray Cycle 4: Thiamethoxam (Actara) — Neonicotinoid Group 4A
+→ Rotate between Polo + Neonicotinoids; never use same chemistry 3× in a row
+
+============================================================
+INTEGRATED PEST MANAGEMENT (IPM) FOR JASSIDS
+============================================================
+- Use resistant varieties: BH-167, CIM-573, MNH-786 (Punjab); CRIS varieties (Sindh) show lower jassid susceptibility
+- Reflective mulches: Reduce landing of jassids (silver/white plastic mulch)
+- Yellow sticky traps: For monitoring (not mass trapping)
+- Avoid excessive nitrogen — lush succulent plants attract more jassids
+- Maintain natural enemies: Avoid calendar spraying; spray only at ETL
+- Intercrop with coriander or marigold to attract beneficial insects
+
+============================================================
+LOCAL SUPPLIERS (Punjab & Sindh)
+============================================================
+- JAS (Jaffer Group — Syngenta distributor): Polo, Actara, Karate nationwide
+- Bayer Pakistan: Confidor, Calypso — through local dealers nationwide
+- Ravi Agrichem: Generic Dimethoate, Acetamiprid — Punjab markets
+- Ihsan Sons (Multan): Economical insecticide range
+- Suncrop Group (Multan): Alpine (Acetamiprid), Traffic (Thiamethoxam)
+- Key markets: Multan, Bahawalpur, Vehari, Khanewal, Sahiwal (Punjab)
+              Hyderabad, Khairpur, Nawabshah, Sukkur (Sindh)
+
+============================================================
+END OF FILE: LEAF HOPPER / JASSIDS
+============================================================

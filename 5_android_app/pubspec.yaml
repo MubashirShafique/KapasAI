@@ -1,0 +1,38 @@
+name: kapasai
+description: "KapasAI - Cotton disease detection and AI assistant."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.2.2        # ✅ FIX: dev_dependencies se yahan move kiya
+  tflite_flutter: ^0.12.1
+  image: ^4.1.7
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/cotton_insect_mobilenetv2_float16.tflite
+    - assets/models/insect_labels.txt
+    - assets/models/cotton_leaf_mobilenetv2_float16.tflite
+    - assets/models/cotton_leaf_labels.txt
+    - assets/logo.png
+    - assets/splash_screen.png
+    - assets/image.png
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.png"

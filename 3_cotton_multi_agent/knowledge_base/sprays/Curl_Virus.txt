@@ -1,0 +1,228 @@
+============================================================
+DISEASE: CURL VIRUS (Cotton Leaf Curl Disease — CLCuD) on Cotton (Kapas)
+Region: Punjab & Sindh, Pakistan
+============================================================
+
+--- DISEASE IDENTIFICATION ---
+Type            : Viral Disease (Begomovirus — Whitefly transmitted)
+Pathogen        : Cotton Leaf Curl Multan Virus (CLCuMV), CLCuKoV-Burewala strain,
+                  and CLCuMuV-Rajasthan strain (Third epidemic 2024 — now dominant in Punjab AND Sindh)
+Vector          : Whitefly (Bemisia tabaci) — Asia II 1 biotype is the primary vector in Pakistan
+Local Name      : Patta Maro Bimari, Bari/Kari Wali Bimari, Curl, Patta Morh
+Peak Season     : May–October (entire cotton season)
+Status          : Pakistan's MOST DEVASTATING cotton disease — losses of 5-30%+ annually;
+                  Third epidemic ongoing since 2022-2023 with CLCuMuV-Rajasthan strain spreading
+                  from South Punjab into Sindh province (confirmed 2024 study)
+
+Symptoms:
+- UPWARD curling of leaves (cup shape; edges roll upward toward upper surface)
+- Leaf blade thickens (leathery texture)
+- Dark green engorged veins on underside of leaf (vein thickening/swelling)
+- Leaf lamina reduced in size
+- Small cup-like outgrowths (enations) on underside of leaves (pathognomonic sign)
+- Stunted plant growth; internodes shorten
+- Reduced or zero boll setting
+- Disease spreads from plant to plant through whitefly movement
+- Disease has NO CURE — only management of vector (whitefly) and cultural practices
+
+SEVERITY KEY:
+Mild: Some leaf curl, plant still growing
+Moderate: Significant curl, reduced bolls, >50% leaves affected
+Severe: Complete stunting, no boll set, plant non-productive
+
+============================================================
+MANAGEMENT STRATEGY — KEY PRINCIPLE
+============================================================
+!! IMPORTANT: CLCuD is INCURABLE once established in plant !!
+Strategy focuses on:
+1. PREVENTING infection by controlling whitefly (vector)
+2. REMOVING infected plants early (roguing) to reduce virus spread
+3. Using tolerant/resistant varieties
+4. Protecting new plantings and uninfected plants nearby
+
+============================================================
+WHITEFLY CONTROL SPRAYS — PAKISTAN LOCAL MARKET
+============================================================
+(Controlling whitefly = reducing virus spread)
+
+GROUP 1: NEONICOTINOIDS (Systemic — Most Used in Pakistan)
+----------------------------------------------------------
+1. Confidor 200 SL (Bayer CropScience Pakistan) ★ FARMER FAVORITE
+   Active Ingredient : Imidacloprid 17.8% SL
+   Dose              : 100 ml per acre (0.5 ml per liter water)
+   Water Volume      : 100-120 liters per acre
+   Residual Effect   : 3-4 weeks
+   Notes             : Systemic; kills adult + nymph whiteflies; also controls jassids simultaneously;
+                       most widely used across Punjab & Sindh cotton belt
+
+2. Actara 25 WG (Syngenta Pakistan)
+   Active Ingredient : Thiamethoxam 25%
+   Dose              : 60-80 g per acre
+   Notes             : Fast action; effective on adults + nymphs; good rotation with Imidacloprid
+
+3. Suncrop Traffic (Suncrop Group, Multan)
+   Active Ingredient : Thiamethoxam
+   Dose              : 50-60 g per acre
+   Notes             : Local Pakistani brand; trusted in Sindh and South Punjab for whitefly + aphid control;
+                       provides up to 21 days protection; applied early morning/late evening
+
+GROUP 2: DIAFENTHIURON (Different Mode of Action — Rotation Essential)
+----------------------------------------------------------------------
+4. Polo 500 SC (Syngenta Pakistan)
+   Active Ingredient : Diafenthiuron 50%
+   Dose              : 200-250 ml per acre
+   Notes             : Effective against all life stages; adults + nymphs + eggs; excellent resistance management;
+                       Different mode of action from neonicotinoids — critical for rotation
+
+GROUP 3: SPIROMESIFEN / SPIROTETRAMAT (Nymph Specialists)
+---------------------------------------------------------
+5. Oberon 24 SC (Bayer Pakistan)
+   Active Ingredient : Spiromesifen 24%
+   Dose              : 200-250 ml per acre
+   Notes             : Specifically targets whitefly nymphs and eggs; provides 82% reduction in nymph population
+                       (Pakistan field trial data); use when nymph population dominates
+
+6. Movento 100 SC (Bayer Pakistan)
+   Active Ingredient : Spirotetramat 10%
+   Dose              : 250-300 ml per acre
+   Notes             : Systemic in both directions (up and down the plant); excellent against nymphs in veins
+
+GROUP 4: ACETAMIPRID (Systemic — Rotation from Imidacloprid)
+------------------------------------------------------------
+7. Mospilan 20 SP (Acetamiprid)
+   Dose              : 80-100 g per acre
+   Notes             : Rotate with Confidor; 15-20 days protection; widely available
+
+8. Suncrop Alpine (Acetamiprid — Suncrop Group, Multan)
+   Dose              : 80-100 g per acre
+   Notes             : Local brand trusted in Sindh cotton areas; fast acting on whitefly
+
+GROUP 5: INSECT GROWTH REGULATORS (Nymph Disruptors)
+----------------------------------------------------
+9. Applaud / Buprofezin (various local brands)
+   Active Ingredient : Buprofezin 25% WP
+   Dose              : 250-300 g per acre
+   Notes             : IGR — disrupts molting of nymphs; does NOT kill adults; use in rotation;
+                       Very effective against whitefly nymphs specifically
+
+10. Pyriproxyfen (local brands)
+    Active Ingredient : Pyriproxyfen 10%
+    Dose              : 200 ml per acre
+    Notes             : IGR — sterilizes adult females; reduces next generation; combine with adulticide
+
+============================================================
+WEATHER-BASED SPRAY TIMING GUIDE (FOR RAG AGENT)
+============================================================
+
+CONDITION 1 — HOT & DRY (Temp: 35-45°C, Humidity: < 45%)
+  → ★★★ PEAK WHITEFLY SEASON — maximum transmission risk for CLCuD
+  → High temperatures = fast virus transmission; whitefly spreads virus in minutes
+  → SPRAY: Confidor (Imidacloprid) immediately if whitefly detected — don't wait for ETL in CLCuD context
+  → Spray time: EARLY MORNING (5-7 AM) or LATE EVENING (6-8 PM)
+  → Add Spreader-Sticker (0.2% concentration) — improves adhesion in heat
+  → Irrigation: Water stress makes plants MORE susceptible; irrigate before spraying
+  → Scout DAILY during hot dry spells; whitefly can triple in 5-7 days in peak heat
+  → Inspect undersides of young upper leaves for whitefly adults + nymph colonies
+
+CONDITION 2 — WARM MODERATE (Temp: 28-35°C, Humidity: 50-65%)
+  → Active whitefly + virus transmission; moderate-high risk period
+  → Use ROTATION spray: Polo (Diafenthiuron) or Oberon (Spiromesifen) for nymphs
+  → Morning spray (6-8 AM); check that spray reaches underside of young leaves
+  → Apply Buprofezin (Applaud) for nymph population management in combination
+
+CONDITION 3 — MONSOON / HEAVY RAIN (July–September)
+  → Rain temporarily reduces adult whitefly; nymphs remain
+  → POST-RAIN RESURGENCE is major concern — whitefly populations rebuild rapidly
+  → Spray Oberon (Spiromesifen) for nymph control 2-3 days after rain
+  → Follow up 7-10 days later with adulticide (Imidacloprid/Thiamethoxam)
+  → Monitor new top leaves after each rain — new infections occur in warm post-rain conditions
+  → Use WP/SC formulations in monsoon (better rain resistance than EC)
+
+CONDITION 4 — EARLY SEASON (April–May, Punjab; March–April, Sindh)
+  → CRITICAL PREVENTION WINDOW: Seed treatment protects seedlings for 45-50 days
+  → Use Imidacloprid 70 WS seed treatment @ 5-7 g per kg seed
+  → This gives systemic protection at seedling stage when early whitefly pressure is highest
+  → First foliar spray: 45-50 days after germination or at first sign of whitefly
+
+CONDITION 5 — HIGH HUMIDITY (> 70%)
+  → Good spray absorption; stomata open
+  → Spray any time of day in morning/afternoon hours
+  → Add neem oil (2%) to spray mix — enhances whitefly repellent effect
+  → Best time to apply Biopesticides (Neem, Entomopathogenic fungi)
+
+CONDITION 6 — WINDY (> 15 km/h)
+  → Do NOT spray — drift and poor coverage; whiteflies disperse on wind currents
+  → High wind = rapid whitefly spread between fields — monitor neighbors' fields too
+  → Spray immediately when wind calms (next calm morning)
+
+TEMPERATURE-VIRUS TRANSMISSION LINK:
+- 25-30°C: Moderate whitefly activity; 7-10 days acquisition + transmission time
+- 30-35°C: High activity; faster transmission; spray window shortened
+- 35-42°C: Peak activity; virus transmitted in 15-30 minutes of feeding; urgent spray needed
+- > 42°C: Whitefly movement slows; brief respite but do not relax monitoring
+
+============================================================
+RESISTANCE MANAGEMENT — WHITEFLY IN PAKISTAN
+============================================================
+Pakistan research shows LOW-LEVEL RESISTANCE to:
+- Imidacloprid (5.13x resistance ratio)
+- Acetamiprid (3.0x)
+- Diafenthiuron (4.73x)
+Resistance is increasing with overuse. Key rules:
+1. Never apply same active ingredient > 2 consecutive sprays
+2. Rotation schedule example:
+   Spray 1: Imidacloprid (Confidor)
+   Spray 2: Diafenthiuron (Polo)
+   Spray 3: Thiamethoxam (Actara)
+   Spray 4: Spiromesifen (Oberon) — targets nymphs
+   Spray 5: Acetamiprid (Mospilan)
+   Then restart cycle with different product
+3. Avoid mixtures of same-class chemicals
+4. Use IGRs (Buprofezin, Pyriproxyfen) in rotation to disrupt lifecycle
+
+============================================================
+CULTURAL MANAGEMENT (NON-SPRAY)
+============================================================
+1. ROGUING (Most Important Field Practice):
+   - Remove and DESTROY infected plants immediately when detected
+   - Do not leave infected plants in field — whitefly uses them to acquire and spread virus
+   - Burn or bury deeply (DO NOT leave on field surface)
+   - Rogue infected plants within 30 days of first appearance for effective control
+
+2. RESISTANT VARIETIES:
+   Punjab: Use MNH-1020, FH-142, Ali Akbar-703 (CLCuD tolerant varieties)
+   Sindh: Use CRIS-134, CRIS-335, NIAB-Kiran (Sindh Agriculture Research Institute recommended)
+   Note: Burewala strain broke down resistance in 2001; new varieties being developed
+
+3. YELLOW STICKY TRAPS: 15-20 per acre for whitefly monitoring and mass trapping
+
+4. BORDER CROP: Plant sorghum or maize border rows (4-6 rows) around cotton field to reduce whitefly entry
+
+5. TIMELY SOWING: Early sowing (April in Punjab; March in Sindh) allows crop to mature before peak whitefly pressure (August-September)
+
+6. REFLECTIVE MULCH: Silver/aluminium mulch repels whitefly at seedling stage
+
+7. CROP ROTATION: Avoid cotton after cotton; rotate with wheat; reduces whitefly carryover population
+
+============================================================
+LOCAL SUPPLIERS (Punjab & Sindh)
+============================================================
+- Bayer Pakistan: Confidor, Oberon, Calypso, Movento — through national dealers
+- Syngenta Pakistan (JAS/Jaffer Group): Actara, Polo — nationwide network
+- Suncrop Group (Multan): Traffic, Alpine — Sindh and South Punjab focus
+- FMC Pakistan: specialty whitefly products
+- Online: Fazal Agri Mall, Kissan Ghar, Zarai Dawai, IR Farm
+- Key markets: Multan, Bahawalpur, Rahim Yar Khan, Vehari (Punjab)
+              Hyderabad, Mirpur Khas, Sukkur, Khairpur, Nawabshah (Sindh)
+
+============================================================
+GOVERNMENT RESOURCES
+============================================================
+- Punjab Agriculture Extension Department: Free disease diagnosis; call 0800-15000 (helpline)
+- Sindh Agriculture Research Institute (SARI): Tandojam — variety recommendations
+- NIBGE (National Institute for Biotechnology and Genetic Engineering), Faisalabad — CLCuD research center
+- CCRI (Central Cotton Research Institute), Multan — Cotton disease advisories
+
+============================================================
+END OF FILE: CURL VIRUS (CLCuD)
+============================================================

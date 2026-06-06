@@ -1,0 +1,187 @@
+============================================================
+DISEASE: HERBICIDE GROWTH DAMAGE on Cotton (Kapas)
+Region: Punjab & Sindh, Pakistan
+============================================================
+
+--- DAMAGE IDENTIFICATION ---
+Type          : Abiotic — Herbicide Injury (Phytotoxicity / Drift Damage)
+Local Name    : Zehreli Spray Ka Nuqsan, Dawayi Ka Nuqsan, Herbicide Phatka
+Affected Stage: Most damaging at seedling, vegetative, and squaring stages
+
+This is NOT an infectious disease. Damage is caused by:
+1. Accidental drift of herbicides used in nearby wheat/sugarcane/maize fields
+2. Wrong herbicide applied to cotton by mistake
+3. Herbicide residue in soil from previous season (carry-over)
+4. Mixing cotton spray equipment with herbicide residue
+
+Primary Herbicides that Damage Cotton in Pakistan Context:
+- 2,4-D (widely used in wheat fields — most common cause of cotton damage in Pakistan)
+- MCPA (wheat fields; similar to 2,4-D)
+- Dicamba (wheat + maize; highly volatile; drift danger)
+- Metribuzin (sugarcane + wheat; soil residue)
+- Atrazine (maize fields; soil residue; long persistence)
+- Glyphosate (non-selective; kills cotton if drifted)
+
+NOTE: In Pakistan, 2,4-D is extensively used in wheat (April–May) — exactly when cotton
+seedlings are emerging. Drift from adjacent wheat fields is the single most common
+cause of herbicide damage in cotton in Punjab and Sindh.
+
+============================================================
+SYMPTOMS OF EACH HERBICIDE DAMAGE TYPE
+============================================================
+
+2,4-D / MCPA Drift Damage (MOST COMMON in Pakistan):
+- Leaves elongate/strap-like and twisted (petioles twist like corkscrew)
+- Growing tip (terminal bud) curls downward severely
+- New leaves are narrow, elongated, parallel-veined (abnormal)
+- Stem bends; internodes shorten
+- Visible within hours to 2-3 days of exposure
+- Plants look "stretched and twisted"
+
+Dicamba Damage:
+- Cup-shaped (cupped) leaves — margins roll upward
+- Leaf strapping less pronounced than 2,4-D
+- Flower and boll shedding
+- Growing tips deformed
+
+Atrazine/Metribuzin Residue (Soil carry-over):
+- Yellowing of leaf margins progressing inward
+- Bleaching / whitening of leaves
+- Root stunting; slow growth
+- Damage appears gradually over 2-4 weeks after planting
+
+Glyphosate Drift:
+- Rapid yellowing of growing tips and young leaves
+- Dead/necrotic tissue within 5-7 days
+- No twisting — uniform yellowing/death
+
+============================================================
+RECOVERY TREATMENT SPRAYS — PAKISTAN LOCAL MARKET
+============================================================
+
+IMPORTANT NOTE: There is NO direct antidote for herbicide damage.
+Treatment focuses on PLANT RECOVERY — stimulating new healthy growth and reducing stress.
+
+CATEGORY 1: PLANT GROWTH REGULATORS (Recovery Stimulants)
+----------------------------------------------------------
+1. Gibberellic Acid (GA3) — Primary Recovery Spray
+   Products Available in Pakistan:
+   - Gibberellin 10 SP (various brands — available in Lahore, Karachi, Multan agri markets)
+   - Progibb / Gibb Plus (local brands in Punjab markets)
+   Dose        : 1-2 g per 10 liters of water (0.1-0.2 g per liter = 100-200 ppm)
+   Application : Spray 2-3 times at 7-10 day intervals after damage is visible
+   Notes       : Stimulates cell elongation and new growth; helps plants outgrow herbicide effect;
+                 highly effective for 2,4-D drift recovery
+
+2. Seaweed Extract / Algae Extract — Biostimulant
+   Products    : Kelpak, Algastar, Seaweed Gold (local brands — available online and Lahore/Karachi markets)
+   Dose        : 200-300 ml per acre in foliar spray
+   Notes       : Naturally contains cytokinin and auxin; promotes recovery growth; research in China
+               confirms seaweed + GA3 combination best for herbicide damage recovery in cotton
+
+3. 24-Epibrassinolide (Brassinosteroid PGR)
+   Products    : Brassinolide / Brassin (specialty agri shops, Lahore, Karachi)
+   Dose        : 0.01-0.1 ppm (very low dose; follow product label exactly)
+   Notes       : Reduces oxidative stress from herbicide exposure; improves recovery
+
+CATEGORY 2: AMINO ACID + HUMIC ACID TONIC
+------------------------------------------
+4. Amino Acid Tonic (Stress Recovery)
+   Products    : AminoStar, Amino Gold, Aminoforce (local Pakistan brands), HumiStar
+   Dose        : 200-500 ml per acre foliar spray
+   Notes       : Amino acids bypass the damaged metabolic pathways; helps protein synthesis for new leaf;
+                 very popular in Pakistan for crop stress recovery
+
+5. Humic Acid Foliar Spray
+   Products    : Humate Gold (Sayban International), Humic Pro, Agri Humate
+   Dose        : 250-500 ml per acre
+   Notes       : Improves root function and nutrient uptake; particularly useful for soil residue damage
+
+CATEGORY 3: NITROGEN + UREA FOLIAR (Plant Fuel)
+-------------------------------------------------
+6. Urea 1% Foliar Spray
+   Dose        : 10 g urea per liter water
+   Application : 2-3 sprays at 10-day intervals
+   Notes       : Quick nitrogen supply to stimulate rapid new growth; helps plants recover faster;
+                 widely available, cheap, and effective
+
+CATEGORY 4: ANTIOXIDANT SPRAY
+------------------------------
+7. Ascorbic Acid (Vitamin C) 500 ppm + PMA 10 ppm
+   Notes       : Reduces reactive oxygen species (ROS) generated by herbicide damage
+   Availability: Specialty agri shops in major cities
+   Application : Foliar spray 2×; 7 days apart
+
+============================================================
+WEATHER-BASED RECOVERY SPRAY TIMING GUIDE (FOR RAG AGENT)
+============================================================
+
+CONDITION 1 — HOT & DRY (Temp: 38-45°C, Humidity: < 40%)
+  → High heat worsens herbicide stress (plant already stressed + herbicide toxicity)
+  → IMMEDIATE: Irrigate the field — dilutes soil residue herbicides; reduces plant heat stress
+  → SPRAY: GA3 (1-2 g/10L) + Amino Acid tonic EARLY MORNING (5-7 AM)
+  → DO NOT delay recovery spray — each hot day without treatment increases recovery time
+  → Avoid spraying in midday — heat reduces chemical activity and increases evaporation
+  → Repeat GA3 spray every 7 days × 3 applications
+
+CONDITION 2 — WARM MODERATE (Temp: 28-35°C)
+  → Best conditions for plant recovery
+  → Spray GA3 + Seaweed Extract combination in morning
+  → Follow with Urea 1% spray 5 days later to boost nitrogen for new growth
+  → Expected recovery time: 3-4 weeks with proper treatment
+  → Monitor growing tips — new healthy leaves emerging = recovery underway
+
+CONDITION 3 — AFTER HEAVY RAIN
+  → Rain helps LEACH soil residue herbicides (Atrazine, Metribuzin carry-over)
+  → Good recovery opportunity — apply Humic Acid + Amino Acid spray 24-48 hours after rain
+  → DO NOT spray during rain (washes off)
+  → Post-rain window: spray recovery tonics for 2 consecutive weeks
+
+CONDITION 4 — MONSOON / HIGH HUMIDITY (> 70%)
+  → Good absorption conditions; stomata open
+  → Spray GA3 + Urea combination any morning
+  → Plants recover faster in humid conditions — good prognosis if treated promptly
+
+CONDITION 5 — EARLY SEEDLING STAGE (30-45 days old plants) — CRITICAL
+  → Young plants have LEAST tolerance for herbicide damage
+  → Act WITHIN 24-48 hours of suspected drift exposure
+  → Irrigate immediately after drift event
+  → Spray GA3 + Amino Acid within 48 hours
+  → Uprooting and replanting may be needed if > 50% plants killed
+
+CONDITION 6 — SEVERE DAMAGE (>70% plants affected, twisted, dead terminal buds)
+  → Evaluate whether recovery is economically viable
+  → If < 50% of plants have some live tissue: treat aggressively with GA3 + Amino Acid
+  → If > 70% plants dead/non-recoverable: consider replanting
+  → Replanting window in Punjab: before June 15; Sindh: before May 31 for viable crop
+
+============================================================
+PREVENTIVE MEASURES (CRITICAL FOR PAKISTAN)
+============================================================
+1. SPRAY TIMING: Never spray 2,4-D in wheat fields adjacent to cotton when wind speed > 8 km/h
+2. NOZZLE CHOICE: Use low-drift nozzles for herbicides (flat fan, air induction nozzles)
+3. BUFFER ZONE: Maintain 100-200 meter buffer when applying 2,4-D near cotton fields
+4. TANK CLEANING: Triple-rinse spray tank + add activated charcoal or ammonia solution to neutralize 2,4-D residue
+5. SEPARATE EQUIPMENT: Keep one sprayer strictly for herbicides; do NOT use for cotton pesticides
+6. TIME OF DAY: Never apply 2,4-D when temperature inversion (still, calm nights) — vapor drift increases dramatically
+7. WIND CHECK: Only spray wheat herbicides when wind blowing AWAY from cotton fields
+
+============================================================
+SOIL REMEDIATION (For Soil Residue Herbicide Damage)
+============================================================
+- Atrazine/Metribuzin carry-over in soil: Apply activated charcoal @ 10-20 kg/acre
+- Deep plowing (30-40 cm) to dilute herbicide concentration in root zone
+- Organic matter (FYM) application improves microbial degradation of soil residue
+- Additional irrigation to leach herbicide below root zone
+
+============================================================
+LOCAL SUPPLIERS (Punjab & Sindh)
+============================================================
+- GA3 products: Available in Lahore (Main Agri Market, Lahore Cantt), Faisalabad, Multan markets
+- Seaweed extracts / Amino tonics: Major agri shops in Lahore, Karachi, Hyderabad
+- Online: Zarai Dawai (zaraidawai.pk), Fazal Agri Mall, Kissan Ghar, IR Farm
+- District Agriculture Extension offices can advise on local herbicide damage cases
+
+============================================================
+END OF FILE: HERBICIDE GROWTH DAMAGE
+============================================================

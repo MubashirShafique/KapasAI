@@ -1,0 +1,125 @@
+
+
+PURPOSE:
+This knowledge base is designed for a RAG-based Spray & Weather Expert Agent
+for cotton disease management in Pakistan (Punjab & Sindh provinces).
+Each file contains: Disease ID, Local Names, Symptoms, Local Brand Sprays,
+Doses, Weather-Based Spray Timing, Resistance Management, and Suppliers.
+
+============================================================
+FILE INDEX
+============================================================
+
+FILE 01: 01_Aphids.txt
+  Disease    : Aphids (Tela / Mahu / Cheppa)
+  Type       : Sucking Insect Pest
+  Key Sprays : Confidor (Imidacloprid), Actara (Thiamethoxam), Mospilan (Acetamiprid)
+  Peak Season: May–July (Hot, Dry Weather)
+
+FILE 02: 02_Army_Worm.txt
+  Disease    : Army Worm (Lashkar Keera / Sundi)
+  Type       : Chewing Insect Pest (Caterpillar)
+  Key Sprays : Proclaim (Emamectin Benzoate), Coragen (Chlorantraniliprole), Tracer (Spinosad)
+  Peak Season: July–October (Monsoon / Post-Monsoon)
+  WARNING    : Resistance to Chlorpyrifos and Cypermethrin confirmed in Punjab (2025)
+
+FILE 03: 03_Leaf_Variegation.txt
+  Disease    : Leaf Variegation (Rang Birangi Pattiyan)
+  Type       : Abiotic / Nutritional Disorder (Non-infectious)
+  Key Sprays : MgSO4, Chelated Micronutrients, ZnSO4, FeSO4, Urea + MgSO4 mix
+  Peak Season: Any season; worsens in hot dry weather and alkaline soils
+
+FILE 04: 04_Leaf_Reddening.txt
+  Disease    : Leaf Reddening (Lal Patti / Lalai)
+  Type       : Abiotic / Nutritional + Environmental Disorder
+  Key Sprays : Potassium Sulphate (SOP), Urea 1%, MgSO4, Potassium Nitrate
+  Peak Season: Boll Stage (August–September); worsens in hot, drought conditions
+
+FILE 05: 05_Leaf_Hopper_Jassids.txt
+  Disease    : Leaf Hopper / Jassids (Tiddha)
+  Type       : Sucking Insect Pest (Adults + Nymphs)
+  Key Sprays : Confidor (Imidacloprid), Polo (Diafenthiuron), Actara, Mospilan
+  Peak Season: April–August (Hot, Dry Weather) — peak in Khairpur Sindh, Multan Punjab
+
+FILE 06: 06_Herbicide_Growth_Damage.txt
+  Disease    : Herbicide Growth Damage (Zehreli Spray Ka Nuqsan)
+  Type       : Abiotic — Chemical Injury (Non-infectious)
+  Key Sprays : GA3 (Gibberellic Acid), Amino Acid Tonic, Seaweed Extract, Urea 1%
+  Main Cause : 2,4-D drift from adjacent wheat fields (April–May is critical period)
+  Note       : No antidote; recovery-focused treatment only
+
+FILE 07: 07_Curl_Virus.txt
+  Disease    : Curl Virus — Cotton Leaf Curl Disease (CLCuD)
+  Type       : Viral Disease (Begomovirus — Whitefly transmitted; INCURABLE)
+  Key Sprays : Confidor, Polo, Actara, Oberon (Spiromesifen), Applaud (Buprofezin)
+  Peak Season: May–October; Third epidemic (CLCuMuV-Raj strain) ongoing in 2024-2025
+  Strategy   : Control whitefly vector; rogue infected plants; use resistant varieties
+
+FILE 08: 08_Bacterial_Blight.txt
+  Disease    : Bacterial Blight (Bakteri Bimari / Kala Arm / Angular Leaf Spot)
+  Type       : Bacterial Disease (Xanthomonas citri pv. malvacearum)
+  Key Sprays : Copper Oxychloride 50 WP, Streptomycin + Copper Combination
+  Peak Season: Monsoon (July–September); warm humid weather
+  Best Method: Copper Oxy + Streptomycin combination (3 sprays at 40-50, 70-80, 85-95 DAP)
+
+============================================================
+QUICK WEATHER-TO-DISEASE RISK MATRIX (FOR AGENT USE)
+============================================================
+
+WEATHER CONDITION          | HIGH RISK DISEASES
+---------------------------|------------------------------------------
+Hot & Dry (>35°C, <40% RH)| Aphids ★★★, Jassids ★★★, Curl Virus ★★★, Leaf Reddening ★★
+Warm & Humid (28-35°C, >65%)| Bacterial Blight ★★★, Army Worm ★★, Curl Virus ★★
+Monsoon Rain               | Army Worm ★★★, Bacterial Blight ★★★, Leaf Reddening ★
+Post-Rain Resurgence       | Aphids ★★, Jassids ★★, Curl Virus ★★, Army Worm ★★★
+Cold (<20°C nights)        | All pests reduced; nutritional disorders possible
+High Alkaline Soil + Heat  | Leaf Variegation ★★★, Leaf Reddening ★★
+Wheat Harvest Season (Apr-May) | Herbicide Drift Damage ★★★ (2,4-D from wheat)
+
+============================================================
+SPRAY TIMING RULES (GLOBAL — ALL DISEASES)
+============================================================
+RULE 1: Best spray time = EARLY MORNING (5:00-7:00 AM) or EVENING (6:00-8:00 PM)
+RULE 2: DO NOT spray in midday heat (10 AM–4 PM) — chemical degrades, leaf burn risk
+RULE 3: DO NOT spray when wind > 15 km/h — drift, poor coverage
+RULE 4: DO NOT spray within 2 hours of expected rain
+RULE 5: Wait 24 hours after heavy rain before spraying
+RULE 6: Irrigate 12-24 hours before spraying in drought conditions
+RULE 7: Add spreader-sticker (0.2%) in hot/windy/humid conditions
+RULE 8: ROTATE chemical classes every 1-2 sprays — resistance management
+RULE 9: Spray undersides of leaves for sucking pests (aphids, jassids, whitefly)
+RULE 10: Keep spray records — don't apply same product more than 2× in a season
+
+============================================================
+MAJOR LOCAL COMPANY REFERENCE TABLE (Punjab & Sindh)
+============================================================
+COMPANY               | NOTABLE PRODUCTS               | REGION FOCUS
+----------------------|--------------------------------|------------------
+Bayer CropScience PK  | Confidor, Polo, Oberon, Calypso| Nationwide
+Syngenta Pakistan     | Actara, Proclaim, Ampligo, Karate| Nationwide (JAS)
+FMC Pakistan          | Coragen, Belt               | Nationwide
+Corteva Pakistan      | Lorsban, Tracer, Tilt       | Nationwide
+Suncrop Group         | Traffic, Alpine, Suncrop range| Multan/Sindh/S.Punjab
+Ravi Agrichem         | Generic range                 | Punjab
+Ihsan Sons            | Budget generic range          | Multan/South Punjab
+Sayban International  | Eco-friendly, Humate Gold     | Sindh & Punjab
+ACI Pakistan          | ISO-certified generic range   | Nationwide
+Engro Fertilizers     | SOP, DAP, Zarkhez Micro       | Nationwide
+FFC (Fauji Fertilizer)| Urea, DAP, SOP               | Nationwide
+
+ONLINE STORES (DELIVERY NATIONWIDE):
+- Fazal Agri Mall: fazalagrimall.pk
+- Kissan Ghar: kissanghar.pk
+- IR Farm: irfarm.com
+- Zarai Dawai: zaraidawai.pk
+
+============================================================
+GOVERNMENT HELPLINES & RESOURCES
+============================================================
+- Punjab Agriculture Department Helpline: 0800-15000 (Free)
+- Central Cotton Research Institute (CCRI) Multan: 061-111-678-678
+- Sindh Agriculture Research Institute (SARI) Tandojam: 022-2651-340
+- NIBGE Faisalabad (CLCuD Research): niab.org.pk
+- AgriPunjab (Official Pesticide List): agripunjab.gov.pk
+
+
