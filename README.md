@@ -1,8 +1,7 @@
 # 🌱 KapasAI - Intelligent Cotton Farming Ecosystem
 
-> **KapasAI** is a complete AI-powered cotton farming platform that combines **Deep Learning**, **Multi-Agent AI Systems**, **Retrieval-Augmented Generation (RAG)**, **Mobile Applications**, and **API Services** to assist farmers in disease detection, insect identification, crop management, and agricultural decision-making.
-
-The project is designed to provide end-to-end support for cotton farmers through image-based diagnosis, expert advisory systems, and mobile accessibility.
+> **KapasAI** is a complete AI-powered cotton farming platform that combines MobileNetV2-based Offline Deep Learning, Multi-Agent AI Systems, Retrieval-Augmented Generation (RAG), Mobile Applications, and API Services to assist farmers in disease prevention, insect identification, crop management, and agricultural decision-making.
+ The project is designed to provide end-to-end support for cotton farmers through image-based diagnosis, expert advisory systems, and mobile accessibility. The disease and insect identification module is powered by MobileNetV2, which runs offline on mobile devices, enabling fast and reliable predictions even in areas with limited or no internet connectivity
 
 ---
 
@@ -21,7 +20,7 @@ KapasAI consists of multiple integrated modules:
 1. **Dataset Sources** – Documentation and dataset references used for model training.
 2. **Deep Learning Model Training** – Cotton disease and insect detection models built using MobileNetV2.
 3. **Cotton Multi-Agent Advisory System** – AI agents that provide farming guidance, disease prevention, and spray recommendations.
-4. **API Backend** – REST API layer connecting the AI system with external applications.
+4. **API Backend** – API layer connecting the AI system with external applications.
 5. **Android Application** – Mobile application for farmers.
 6. **Application Screenshots** – UI demonstrations and project visuals.
 
@@ -278,27 +277,33 @@ Contains screenshots and visual demonstrations of the KapasAI mobile application
 ## 🔄 System Workflow
 
 ```text
-                    Farmer/User
+                      Farmer/User
                           │
                           ▼
                   Mobile Application
                           │
-                          ▼
-                      API Backend
-                          │
-                          ▼
-                KapasAI AI Services
-                          │
-         ┌────────────────┼────────────────┐
-         ▼                ▼                ▼
+          ┌───────────────┼───────────────┐
+          │                               │
+          ▼                               ▼
 
- Disease Detection   Insect Detection   Multi-Agent AI
-     Model               Model           Zarkhez
+  Offline AI Processing            Cloud/API Services
+       (On Device)                        │
+          │                               ▼
+          │                      Multi-Agent AI
+          │                         (Zarkhez)
+          │
+    ┌─────┴─────┐
+    ▼           ▼
 
-         │                │                │
-         └────────────────┼────────────────┘
+Disease      Insect
+Detection   Detection
+(MobileNetV2) (MobileNetV2)
+
+    └─────┬─────┘
+          │
+          └───────────────┬───────────────┘
                           ▼
-                   Final Recommendation
+                 Final Recommendation
                           │
                           ▼
                      Farmer/User
