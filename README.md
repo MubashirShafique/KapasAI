@@ -39,7 +39,7 @@ KAPASAI/
 ├── 2_model_training/
 │   ├── insect_detection_model_training/
 │   ├── leaf_disease_detection_model_training/
-│   ├── cotton_insect_mobilenetv2.keras
+│   |
 │   └── README.md
 │
 ├── 3_cotton_multi_agent/
